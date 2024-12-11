@@ -1,0 +1,19 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = domain80
+	email = work.davidmainoo@gmail.com
+  
+[core]
+	editor = nvim
+  sshCommand = ssh -i ~/.ssh/id_rsa_personal
+   
+[credential "https://github.com"]
+	helper = 
+	helper = !/opt/homebrew/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/opt/homebrew/bin/gh auth git-credential
+
+[includeIf "gitdir:~/dev/terydin/"] 
+  path = ~/dev/terydin/.gitconfig

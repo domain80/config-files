@@ -1,0 +1,1 @@
+INSERT INTO `emr`.`appointment_request` (`id`, `reason`, `notes`, `type`, `status`, `hospitalId`, `patientId`, `appointmentSlotId`) VALUES ('a9d02738-cde3-43b0-becc-df8a0249f4d4', 'another Banger', 'Again I say another banger', 'virtual', 'pending', 'a9d02738-cde3-43b0-becc-df8a0249f4dE', 'a9d02738-cde3-43b0-becc-df8a0249f4IJ', 'a9d02738-cde3-43b0-becc-df8a0249f4d9');

@@ -1,0 +1,96 @@
+let mapleader=" "
+
+""" Plugins  --------------------------------
+set surround
+set multiple-cursors
+set commentary
+set argtextobj
+set textobj-entire
+set ReplaceWithRegister
+set exchange
+
+set incsearch
+set ignorecase
+set smartcase
+set clipboard+=unnamed
+set ideajoin
+set ideaput
+set relativenumber
+set number
+set surround
+set highlightedyank
+set idearefactormode=keep
+set ideajoin
+set showmode
+set NERDTree
+
+" Trying the new syntax
+Plug 'machakann/vim-highlightedyank'
+Plug 'tpope/vim-surround'		    " ys, cs, ds, S
+
+""" Plugin settings -------------------------
+let g:argtextobj_pairs="[:],(:),<:>"
+
+" <C-n> seems to me as a better solution than <M-n>,
+" but we should finally support vim-visual-multi because vim-multiple-cursors is deprecated now
+map <C-n> <Plug>NextWholeOccurrence
+
+""" Common settings -------------------------
+set showmode
+set so=5
+set incsearch
+set nu
+
+""" Idea specific settings ------------------
+set ideajoin
+set ideastatusicon=gray
+set ralativenumber
+
+""" My Mappings -----------------------------
+
+nmap <leader>w <Action>(SaveDocument)
+nmap <leader>q <Action>(CloseEditor)
+
+nnoremap L $
+nnoremap H ^
+vnoremap L $
+vnoremap H ^
+
+noremap <SPACE> <Nop>
+" nnoremap <SPACE> :
+
+imap jk <ESC>
+imap kj <ESC>
+
+nmap zj o<ESC>k
+nmap zk O<ESC>j
+
+
+" I think it's a better solution
+map U <C-R>
+nmap <leader>t <Action>(ActivateTerminalToolWindow)
+
+" formatting
+nnoremap == <Action>(ReformatCode)
+vnoremap == <Action>(ReformatCode)
+nnoremap -- <Action>(OptimizeImports)
+vnoremap -- <Action>(OptimizeImports)
+
+nnoremap <leader>/ :action CommentByLineComment <CR>
+vnoremap <leader>/ :action CommentByLineComment <CR>
+
+" Navigation
+nmap ]e <Action>(GotoNextError)
+nmap [e <Action>(GotoPreviousError)
+
+" Others
+map <leader>z <Action>(ToggleDistractionFreeMode)
+map <leader>a <Action>(Annotate)
+map <Leader>E <Action>(ShowErrorDescription)
+map <Leader>i <Action>(QuickJavaDoc)
+map <leader>h <Action>(Vcs.ShowTabbedFileHistory)
+map <leader>r <Action>(RenameElement)
+
+"   folding
+map <leader>- <Action>(CollapseRegion)
+map <leader>+ <Action>(ExpandRegion)
