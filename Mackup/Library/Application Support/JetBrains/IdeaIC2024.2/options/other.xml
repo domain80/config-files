@@ -1,0 +1,32 @@
+<application>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "MarketplacePluginsSearchHistory": "sonar\nspring boot\nspring\nextra icons\nextra",
+    "NextRunPlatformUpdateBuild": "IC-243.22562.145",
+    "NextRunPlatformUpdateVersion": "2024.3.1",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "242.24807.4",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Light",
+    "registry.to.advanced.settings.migration.build": "IC-242.24807.4"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

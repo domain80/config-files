@@ -48,8 +48,9 @@ set ralativenumber
 
 """ My Mappings -----------------------------
 
-nmap <leader>w <Action>(SaveDocument)
-nmap <leader>q <Action>(CloseEditor)
+nmap <leader>w :action SaveDocument <CR>
+nmap <leader>q :action CloseEditor <CR>
+
 
 nnoremap L $
 nnoremap H ^
@@ -71,26 +72,10 @@ map U <C-R>
 nmap <leader>t <Action>(ActivateTerminalToolWindow)
 
 " formatting
-nnoremap == <Action>(ReformatCode)
-vnoremap == <Action>(ReformatCode)
-nnoremap -- <Action>(OptimizeImports)
-vnoremap -- <Action>(OptimizeImports)
+nnoremap == :action ReformatCode <CR>
+vnoremap == :action ReformatCode <CR>
+nnoremap -- :action OptimizeImports <CR>
+vnoremap -- :action OptimizeImports <CR>
 
 nnoremap <leader>/ :action CommentByLineComment <CR>
-vnoremap <leader>/ :action CommentByLineComment <CR>
-
-" Navigation
-nmap ]e <Action>(GotoNextError)
-nmap [e <Action>(GotoPreviousError)
-
-" Others
-map <leader>z <Action>(ToggleDistractionFreeMode)
-map <leader>a <Action>(Annotate)
-map <Leader>E <Action>(ShowErrorDescription)
-map <Leader>i <Action>(QuickJavaDoc)
-map <leader>h <Action>(Vcs.ShowTabbedFileHistory)
-map <leader>r <Action>(RenameElement)
-
-"   folding
-map <leader>- <Action>(CollapseRegion)
-map <leader>+ <Action>(ExpandRegion)
+vnoremap cc :action CommentByLineComment <CR>

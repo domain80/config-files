@@ -1,1 +1,0 @@
-UPDATE `emr`.`appointment_slot` SET `date` = '2024-11-22' WHERE `id` = 'a9d02738-cde3-43b0-becc-df8a0249f4d9';
