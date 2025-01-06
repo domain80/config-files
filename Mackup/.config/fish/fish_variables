@@ -4,6 +4,7 @@ SETUVAR --export EDITOR:nvim
 SETUVAR --export GOBIN:/Users/domain80/go/bin
 SETUVAR --export --path GOPATH:/Users/domain80/go
 SETUVAR --export JAVA_HOME:/opt/homebrew/opt/openjdk\x4017/libexec/openjdk\x2ejdk/Contents/Home/
+SETUVAR --export SPRING_OUTPUT_ANSI_ENABLED:ALWAYS
 SETUVAR __fish_initialized:3400
 SETUVAR _fisher_budimanjojo_2F_tmux_2E_fish_files:\x7e/\x2econfig/fish/conf\x2ed/tmux\x2eextra\x2econf\x1e\x7e/\x2econfig/fish/conf\x2ed/tmux\x2efish\x1e\x7e/\x2econfig/fish/conf\x2ed/tmux\x2eonly\x2econf\x1e\x7e/\x2econfig/fish/conf\x2ed/tmux_abbrs\x2efish
 SETUVAR _fisher_dracula_2F_fish_files:\x7e/\x2econfig/fish/themes/Dracula\x20Official\x2etheme\x1e\x7e/\x2econfig/fish/conf\x2ed/dracula\x2efish

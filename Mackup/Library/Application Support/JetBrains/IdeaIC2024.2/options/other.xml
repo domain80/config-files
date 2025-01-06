@@ -1,4 +1,12 @@
 <application>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="OverrideMethods" />
+      <option value="NewElement" />
+      <option value="org.intellij.plugins.markdown.ui.actions.styling.MarkdownIntroduceLinkReferenceAction" />
+    </ids>
+  </component>
+  <component name="FileEditorProviderManager">{}</component>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
   </component>
@@ -8,17 +16,50 @@
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
-    "MarketplacePluginsSearchHistory": "sonar\nspring boot\nspring\nextra icons\nextra",
-    "NextRunPlatformUpdateBuild": "IC-243.22562.145",
-    "NextRunPlatformUpdateVersion": "2024.3.1",
+    "IdeErrorsDialog.LAST_OK_ACTION": "REPORT_ALL",
+    "InstalledPluginsSearchHistory": "en\nconfig\nconfi\nformat\nforma",
+    "JUnit.Splitter.Proportion": "0.3986014",
+    "JUnitSupport.hidePassedTests": "false",
+    "KEYMAP": "show context\nshow",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "4",
+    "MarketplacePluginsSearchHistory": "format\nproperties format\nproperties\nproper\npro",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "NewProjectWizard.gitState": "true",
+    "NewProjectWizard.groupIdState": "com.domain80",
+    "NextRunPlatformUpdateBuild": "IC-243.22562.218",
+    "NextRunPlatformUpdateVersion": "2024.3.1.1",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "SettingsSearchHistory": "full path\nenv\noutput\ncustom vm options\nconfig",
     "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "Maven",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "create.project.preferred.importer": "Existing sources",
+    "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
+    "enter_selection_count": "5",
+    "exception.accepted.notices": ":d4a3ab85",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "242.24807.4",
+    "file.gist.reindex.count": "1",
     "fileTypeChangedCounter": "2",
+    "filter_non_existing": "true",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1735945443235",
+    "installed.kotlin.plugin.version": "242.24807.4-IJ",
+    "jdk.selected.JAVA_MODULE": "homebrew-21",
+    "last.imported.location": "/Users/domain80/IdeaProjects/feign-central",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
     "migrated.non.roamable.values.from.general.settings": "true",
     "previousColorScheme": "_@user_Light",
+    "project.wizard.group": "NPW.simple-project.Java",
+    "promo.framework.suggestion.dismissed.spring.boot": "true",
+    "promo.ignore.ultimate.edition": "true",
     "registry.to.advanced.settings.migration.build": "IC-242.24807.4"
   },
   "keyToStringList": {

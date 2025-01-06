@@ -1,0 +1,947 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">Z2V0ZW52</entry>
+        <entry encoding="base64">ag==</entry>
+        <entry encoding="base64">YWRmc3Nm</entry>
+        <entry encoding="base64">ZmlsZQ==</entry>
+        <entry encoding="base64">YWRmYWQ=</entry>
+        <entry encoding="base64">dGFi</entry>
+        <entry encoding="base64">U3BhY2U=</entry>
+        <entry encoding="base64">dGVzdA==</entry>
+        <entry encoding="base64">YXNkZmFkZ2E=</entry>
+        <entry encoding="base64">bW9jaw==</entry>
+        <entry encoding="base64">YXNkZmRm</entry>
+        <entry encoding="base64">c2F2ZQ==</entry>
+        <entry encoding="base64">ZW50ZXI=</entry>
+        <entry encoding="base64">bGVhZGVyPnM=</entry>
+        <entry encoding="base64">c3ByaW5n</entry>
+        <entry encoding="base64">c3BsaXQ=</entry>
+        <entry encoding="base64">cnM=</entry>
+        <entry encoding="base64">cnVu</entry>
+        <entry encoding="base64">ZGM=</entry>
+        <entry encoding="base64">ZGQ=</entry>
+        <entry encoding="base64">ZHM=</entry>
+        <entry encoding="base64">cmk=</entry>
+        <entry encoding="base64">IGs=</entry>
+        <entry encoding="base64">Y29sb3I=</entry>
+        <entry encoding="base64">b3V0cHV0</entry>
+        <entry encoding="base64">amFuc2k=</entry>
+        <entry encoding="base64">ZGF0YQ==</entry>
+        <entry encoding="base64" />
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64">YWN0aW9uICBNZXRob2REb3du</entry>
+        <entry encoding="base64">Mzg=</entry>
+        <entry encoding="base64">NDE=</entry>
+        <entry encoding="base64">JXMvc3ByaW5nL3NlY3VyZTEvZw==</entry>
+        <entry encoding="base64">Jzw=</entry>
+        <entry encoding="base64">bm9o</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="hiJava-786c1544">
+      <jump line="71" column="12" filename="$USER_HOME$/IdeaProjects/hiJava/src/Main.java" protocol="file" />
+      <jump line="168" column="11" filename="/opt/homebrew/Cellar/openjdk/23.0.1/libexec/openjdk.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java" protocol="jar" />
+      <jump line="194" column="0" filename="/opt/homebrew/Cellar/openjdk/23.0.1/libexec/openjdk.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java" protocol="jar" />
+      <jump line="218" column="40" filename="/opt/homebrew/Cellar/openjdk/23.0.1/libexec/openjdk.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java" protocol="jar" />
+      <jump line="7" column="4" filename="$USER_HOME$/IdeaProjects/hiJava/src/Main.java" protocol="file" />
+      <jump line="74" column="19" filename="/opt/homebrew/Cellar/openjdk/23.0.1/libexec/openjdk.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java" protocol="jar" />
+      <jump line="47" column="23" filename="$USER_HOME$/IdeaProjects/hiJava/src/Main.java" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/IdeaProjects/hiJava/src/Main.java" protocol="file" />
+      <jump line="20" column="33" filename="$USER_HOME$/IdeaProjects/hiJava/src/Main.java" protocol="file" />
+      <jump line="104" column="17" filename="/opt/homebrew/Cellar/openjdk/23.0.1/libexec/openjdk.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Comparable.java" protocol="jar" />
+      <jump line="6" column="8" filename="$USER_HOME$/IdeaProjects/hiJava/src/Main.java" protocol="file" />
+      <jump line="137" column="17" filename="/opt/homebrew/Cellar/openjdk/23.0.1/libexec/openjdk.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Queue.java" protocol="jar" />
+      <jump line="157" column="0" filename="/opt/homebrew/Cellar/openjdk/23.0.1/libexec/openjdk.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Queue.java" protocol="jar" />
+      <jump line="9" column="31" filename="$USER_HOME$/IdeaProjects/hiJava/src/Main.java" protocol="file" />
+      <jump line="13" column="27" filename="$USER_HOME$/IdeaProjects/hiJava/src/Main.java" protocol="file" />
+      <jump line="22" column="32" filename="$USER_HOME$/IdeaProjects/hiJava/src/Main.java" protocol="file" />
+      <jump line="8" column="56" filename="$USER_HOME$/IdeaProjects/hiJava/src/Main.java" protocol="file" />
+      <jump line="10" column="45" filename="$USER_HOME$/IdeaProjects/hiJava/src/Main.java" protocol="file" />
+      <jump line="14" column="17" filename="$USER_HOME$/IdeaProjects/hiJava/src/Main.java" protocol="file" />
+      <jump line="16" column="57" filename="$USER_HOME$/IdeaProjects/hiJava/src/Main.java" protocol="file" />
+      <jump line="19" column="12" filename="$USER_HOME$/IdeaProjects/hiJava/src/Main.java" protocol="file" />
+      <jump line="17" column="19" filename="$USER_HOME$/IdeaProjects/hiJava/src/Main.java" protocol="file" />
+      <jump line="11" column="29" filename="$USER_HOME$/IdeaProjects/hiJava/src/Main.java" protocol="file" />
+      <jump line="15" column="34" filename="$USER_HOME$/IdeaProjects/hiJava/src/Main.java" protocol="file" />
+    </project>
+    <project id="hiSpring-1de92caf">
+      <jump line="3" column="37" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/proxies/commentProxy.java" protocol="file" />
+      <jump line="5" column="27" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/proxies/commentProxy.java" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="5" column="22" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/interfaces/commentRepository.java" protocol="file" />
+      <jump line="4" column="18" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/interfaces/CommentRepository.java" protocol="file" />
+      <jump line="5" column="27" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/interfaces/commentProxy.java" protocol="file" />
+      <jump line="2" column="9" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/repositories/DBCommentRepo.java" protocol="file" />
+      <jump line="8" column="65" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/repositories/DBCommentRepo.java" protocol="file" />
+      <jump line="4" column="18" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/interfaces/CommentProxy.java" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/interfaces/CommentNotificationProxy.java" protocol="file" />
+      <jump line="2" column="43" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/proxies/EmailCommentNotificationProxy.java" protocol="file" />
+      <jump line="7" column="28" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="4" column="18" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/interfaces/ICommentRepository.java" protocol="file" />
+      <jump line="21" column="5" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="7" column="34" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/Main.java" protocol="file" />
+      <jump line="4" column="17" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/interfaces/CommentNotificationProxy.java" protocol="file" />
+      <jump line="12" column="20" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/Main.java" protocol="file" />
+      <jump line="3" column="53" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/repositories/DBCommentRepo.java" protocol="file" />
+      <jump line="17" column="36" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/Main.java" protocol="file" />
+      <jump line="9" column="23" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/model/Comment.java" protocol="file" />
+      <jump line="21" column="35" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/Main.java" protocol="file" />
+      <jump line="8" column="9" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="6" column="9" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/repositories/DBCommentRepo.java" protocol="file" />
+      <jump line="6" column="9" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/proxies/EmailCommentNotificationProxy.java" protocol="file" />
+      <jump line="10" column="46" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/proxies/EmailCommentNotificationProxy.java" protocol="file" />
+      <jump line="9" column="88" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/proxies/PushCommentNotificationProxy.java" protocol="file" />
+      <jump line="8" column="15" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/proxies/PushCommentNotificationProxy.java" protocol="file" />
+      <jump line="12" column="16" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/AppConfig.java" protocol="file" />
+      <jump line="13" column="4" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/AppConfig.java" protocol="file" />
+      <jump line="9" column="19" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/Parrot.java" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/Main.java" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/Person.java" protocol="file" />
+      <jump line="8" column="9" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/Person.java" protocol="file" />
+      <jump line="6" column="9" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/Parrot.java" protocol="file" />
+      <jump line="20" column="6" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/AppConfig.java" protocol="file" />
+      <jump line="7" column="41" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/AppConfig.java" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/Parrot.java" protocol="file" />
+      <jump line="14" column="11" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/Person.java" protocol="file" />
+      <jump line="14" column="35" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="7" column="10" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/repositories/DBCommentRepo.java" protocol="file" />
+      <jump line="6" column="41" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/config/AppConfig.java" protocol="file" />
+      <jump line="47" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/6.2.1/spring-context-6.2.1-sources.jar!/org/springframework/stereotype/Service.java" protocol="jar" />
+      <jump line="9" column="7" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="111" column="18" filename="/opt/homebrew/Cellar/openjdk@21/21.0.5/libexec/openjdk.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/System.java" protocol="jar" />
+      <jump line="1111" column="51" filename="/opt/homebrew/Cellar/openjdk@21/21.0.5/libexec/openjdk.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/System.java" protocol="jar" />
+      <jump line="20" column="5" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="12" column="48" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="25" column="46" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="10" column="7" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/repositories/DBCommentRepo.java" protocol="file" />
+      <jump line="16" column="0" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="25" column="4" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/config/AppConfig.java" protocol="file" />
+      <jump line="28" column="29" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/config/AppConfig.java" protocol="file" />
+      <jump line="20" column="5" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/config/AppConfig.java" protocol="file" />
+      <jump line="13" column="24" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/config/AppConfig.java" protocol="file" />
+      <jump line="9" column="99" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/Main.java" protocol="file" />
+      <jump line="28" column="32" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="13" column="9" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="12" column="28" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/config/AppConfig.java" protocol="file" />
+      <jump line="14" column="0" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/Main.java" protocol="file" />
+      <jump line="26" column="0" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="8" column="16" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/proxies/EmailCommentNotificationProxy.java" protocol="file" />
+      <jump line="15" column="8" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/Main.java" protocol="file" />
+      <jump line="11" column="65" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/Main.java" protocol="file" />
+      <jump line="13" column="48" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/Main.java" protocol="file" />
+      <jump line="9" column="39" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/config/AppConfig.java" protocol="file" />
+      <jump line="8" column="22" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/config/AppConfig.java" protocol="file" />
+      <jump line="9" column="6" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/LoggingAspect.java" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/LoggingAspect.java" protocol="file" />
+      <jump line="17" column="18" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/LoggingAspect.java" protocol="file" />
+      <jump line="29" column="20" filename="$USER_HOME$/IdeaProjects/hiSpring/pom.xml" protocol="file" />
+      <jump line="16" column="22" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/LoggingAspect.java" protocol="file" />
+      <jump line="11" column="6" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/LoggingAspect.java" protocol="file" />
+      <jump line="15" column="24" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/LoggingAspect.java" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/LoggingAspect.java" protocol="file" />
+      <jump line="13" column="48" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/LoggingAspect.java" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/LoggingAspect.java" protocol="file" />
+      <jump line="25" column="4" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/LoggingAspect.java" protocol="file" />
+      <jump line="20" column="7" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/LoggingAspect.java" protocol="file" />
+      <jump line="23" column="27" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/LoggingAspect.java" protocol="file" />
+      <jump line="30" column="16" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="27" column="0" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/LoggingAspect.java" protocol="file" />
+      <jump line="28" column="48" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/LoggingAspect.java" protocol="file" />
+      <jump line="14" column="18" filename="$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.9.22.1/aspectjweaver-1.9.22.1.jar!/org/aspectj/lang/annotation/Around.class" protocol="jar" />
+      <jump line="18" column="6" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/LoggingAspect.java" protocol="file" />
+      <jump line="29" column="0" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="35" column="59" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="3" column="19" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/Parrot.java" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/config/AppConfig.java" protocol="file" />
+      <jump line="19" column="7" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/Main.java" protocol="file" />
+      <jump line="18" column="20" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/Main.java" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/interfaces/ToLog.java" protocol="file" />
+      <jump line="31" column="5" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="32" column="47" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/features/comment/services/CommentService.java" protocol="file" />
+      <jump line="21" column="30" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/LoggingAspect.java" protocol="file" />
+      <jump line="22" column="5" filename="$USER_HOME$/IdeaProjects/hiSpring/src/main/java/domain80/LoggingAspect.java" protocol="file" />
+    </project>
+    <project id="spring-starter-9880a50">
+      <jump line="19" column="0" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/products/Product.java" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/products/Product.java" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/products/Product.java" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/products/Product.java" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/products/Product.java" protocol="file" />
+      <jump line="12" column="26" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/HomeController.java" protocol="file" />
+      <jump line="9" column="59" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/SpringStarterApplication.java" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/products/Product.java" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/products/Product.java" protocol="file" />
+      <jump line="80" column="34" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="74" column="23" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="55" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="45" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="39" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="33" column="34" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="2" column="13" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/products/Product.java" protocol="file" />
+      <jump line="17" column="16" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/products/Product.java" protocol="file" />
+      <jump line="16" column="0" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/products/Product.java" protocol="file" />
+      <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/products/Product.java" protocol="file" />
+      <jump line="25" column="16" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/products/Product.java" protocol="file" />
+      <jump line="23" column="11" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="21" column="19" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/products/Product.java" protocol="file" />
+      <jump line="30" column="3" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="83" column="1" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="29" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="58" column="44" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="99" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="91" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="43" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="26" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="28" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="34" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="38" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="42" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="46" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="49" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="53" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="59" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="67" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="71" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="86" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="100" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="21" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/6.2.0/spring-web-6.2.0.jar!/org/springframework/web/bind/annotation/RequestMapping.class" protocol="jar" />
+      <jump line="95" column="34" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="6" column="4" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/products/Product.java" protocol="file" />
+      <jump line="11" column="4" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/products/Product.java" protocol="file" />
+      <jump line="8" column="14" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/products/Product.java" protocol="file" />
+      <jump line="102" column="16" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="62" column="30" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="64" column="36" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="66" column="34" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="106" column="30" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="63" column="3" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="56" column="41" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="48" column="1" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="10" column="22" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/products/Product.java" protocol="file" />
+      <jump line="97" column="2" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="13" column="28" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/products/Product.java" protocol="file" />
+      <jump line="4" column="19" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/Payment.java" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/PaymentController.java" protocol="file" />
+      <jump line="16" column="25" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/PaymentController.java" protocol="file" />
+      <jump line="30" column="0" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/PaymentController.java" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/PaymentController.java" protocol="file" />
+      <jump line="79" column="41" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="39" column="62" filename="$USER_HOME$/IdeaProjects/spring-starter/pom.xml" protocol="file" />
+      <jump line="30" column="16" filename="$USER_HOME$/IdeaProjects/spring-starter/pom.xml" protocol="file" />
+      <jump line="82" column="53" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="17" column="17" filename="$USER_HOME$/IdeaProjects/spring-starter/pom.xml" protocol="file" />
+      <jump line="9" column="12" filename="$USER_HOME$/IdeaProjects/spring-starter/pom.xml" protocol="file" />
+      <jump line="32" column="17" filename="$USER_HOME$/IdeaProjects/spring-starter/pom.xml" protocol="file" />
+      <jump line="40" column="16" filename="$USER_HOME$/IdeaProjects/spring-starter/pom.xml" protocol="file" />
+      <jump line="38" column="12" filename="$USER_HOME$/IdeaProjects/spring-starter/pom.xml" protocol="file" />
+      <jump line="37" column="8" filename="$USER_HOME$/IdeaProjects/spring-starter/pom.xml" protocol="file" />
+      <jump line="35" column="20" filename="$USER_HOME$/IdeaProjects/spring-starter/pom.xml" protocol="file" />
+      <jump line="57" column="58" filename="$USER_HOME$/IdeaProjects/spring-starter/pom.xml" protocol="file" />
+      <jump line="1" column="15" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/resources/application.properties" protocol="file" />
+      <jump line="18" column="34" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/PaymentController.java" protocol="file" />
+      <jump line="2" column="13" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/Payment.java" protocol="file" />
+      <jump line="19" column="39" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/PaymentController.java" protocol="file" />
+      <jump line="26" column="50" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/PaymentController.java" protocol="file" />
+      <jump line="27" column="46" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/PaymentController.java" protocol="file" />
+      <jump line="23" column="0" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/PaymentController.java" protocol="file" />
+      <jump line="24" column="51" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/PaymentController.java" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/resources/templates/products.html" protocol="file" />
+      <jump line="10" column="1" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/resources/templates/home.html" protocol="file" />
+      <jump line="18" column="19" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/HomeController.java" protocol="file" />
+      <jump line="53" column="0" filename="$USER_HOME$/IdeaProjects/spring-starter/pom.xml" protocol="file" />
+      <jump line="51" column="20" filename="$USER_HOME$/IdeaProjects/spring-starter/pom.xml" protocol="file" />
+      <jump line="47" column="0" filename="$USER_HOME$/IdeaProjects/spring-starter/pom.xml" protocol="file" />
+      <jump line="49" column="44" filename="$USER_HOME$/IdeaProjects/spring-starter/pom.xml" protocol="file" />
+      <jump line="50" column="19" filename="$USER_HOME$/IdeaProjects/spring-starter/pom.xml" protocol="file" />
+      <jump line="28" column="30" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/PaymentController.java" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/PaymentController.java" protocol="file" />
+      <jump line="2" column="15" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/resources/application.properties" protocol="file" />
+      <jump line="20" column="7" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/PaymentController.java" protocol="file" />
+      <jump line="22" column="8" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/PaymentController.java" protocol="file" />
+      <jump line="14" column="0" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/PaymentController.java" protocol="file" />
+      <jump line="13" column="21" filename="$USER_HOME$/IdeaProjects/spring-starter/src/main/java/domain80/spring_starter/PaymentController.java" protocol="file" />
+      <jump line="4" column="28" filename="$USER_HOME$/IdeaProjects/spring-starter/src/test/java/domain80/spring_starter/PaymentControllerTest.java" protocol="file" />
+    </project>
+    <project id="central-87c7eb14">
+      <jump line="3" column="3" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/controller/PaymentController.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/central/pom.xml" protocol="file" />
+      <jump line="9" column="13" filename="$USER_HOME$/IdeaProjects/central/pom.xml" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/model/Payment.java" protocol="file" />
+      <jump line="7" column="32" filename="$USER_HOME$/IdeaProjects/central/pom.xml" protocol="file" />
+      <jump line="15" column="10" filename="$USER_HOME$/IdeaProjects/central/pom.xml" protocol="file" />
+      <jump line="2" column="1" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/proxy/PaymentProxy.java" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/proxy/PaymentProxy.java" protocol="file" />
+      <jump line="5" column="16" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/proxy/PaymentProxy.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/proxy/PaymentProxy.java" protocol="file" />
+      <jump line="10" column="25" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/proxy/PaymentProxy.java" protocol="file" />
+      <jump line="9" column="15" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/proxy/PaymentProxy.java" protocol="file" />
+      <jump line="25" column="14" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="58" column="9" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="62" column="44" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="72" column="15" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="4" column="19" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/model/Payment.java" protocol="file" />
+      <jump line="29" column="2" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="61" column="14" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="126" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="118" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="106" column="9" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="107" column="9" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="109" column="9" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="110" column="9" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="111" column="9" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="112" column="9" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="113" column="10" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="108" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="105" column="52" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="114" column="42" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="117" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="7" column="12" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/proxy/PaymentProxy.java" protocol="file" />
+      <jump line="15" column="14" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/proxy/PaymentProxy.java" protocol="file" />
+      <jump line="19" column="0" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/proxy/PaymentProxy.java" protocol="file" />
+      <jump line="17" column="4" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/proxy/PaymentProxy.java" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/controller/PaymentController.java" protocol="file" />
+      <jump line="2" column="14" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/controller/PaymentController.java" protocol="file" />
+      <jump line="0" column="28" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/CentralApplication.java" protocol="file" />
+      <jump line="12" column="25" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/proxy/PaymentProxy.java" protocol="file" />
+      <jump line="11" column="4" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/controller/PaymentController.java" protocol="file" />
+      <jump line="10" column="15" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/controller/PaymentController.java" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/proxy/PaymentProxy.java" protocol="file" />
+      <jump line="12" column="8" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/controller/PaymentController.java" protocol="file" />
+      <jump line="10" column="4" filename="$USER_HOME$/IdeaProjects/central/src/test/java/com/domain80/central/CentralApplicationTests.java" protocol="file" />
+      <jump line="8" column="8" filename="$USER_HOME$/IdeaProjects/central/src/test/java/com/domain80/central/CentralApplicationTests.java" protocol="file" />
+      <jump line="19" column="15" filename="$USER_HOME$/IdeaProjects/central/pom.xml" protocol="file" />
+      <jump line="17" column="17" filename="$USER_HOME$/IdeaProjects/central/pom.xml" protocol="file" />
+      <jump line="3" column="28" filename="$USER_HOME$/IdeaProjects/central/src/test/java/com/domain80/central/CentralApplicationTests.java" protocol="file" />
+      <jump line="0" column="29" filename="$USER_HOME$/IdeaProjects/central/src/test/java/com/domain80/central/CentralApplicationTests.java" protocol="file" />
+      <jump line="9" column="5" filename="$USER_HOME$/IdeaProjects/central/src/test/java/com/domain80/central/CentralApplicationTests.java" protocol="file" />
+      <jump line="22" column="8" filename="$USER_HOME$/IdeaProjects/central/pom.xml" protocol="file" />
+      <jump line="47" column="4" filename="$USER_HOME$/IdeaProjects/central/pom.xml" protocol="file" />
+      <jump line="37" column="0" filename="$USER_HOME$/IdeaProjects/central/pom.xml" protocol="file" />
+      <jump line="38" column="19" filename="$USER_HOME$/IdeaProjects/central/pom.xml" protocol="file" />
+      <jump line="44" column="47" filename="$USER_HOME$/IdeaProjects/central/pom.xml" protocol="file" />
+      <jump line="50" column="54" filename="$USER_HOME$/IdeaProjects/central/pom.xml" protocol="file" />
+      <jump line="49" column="19" filename="$USER_HOME$/IdeaProjects/central/pom.xml" protocol="file" />
+      <jump line="48" column="0" filename="$USER_HOME$/IdeaProjects/central/pom.xml" protocol="file" />
+      <jump line="6" column="30" filename="$USER_HOME$/IdeaProjects/central/src/test/java/com/domain80/central/CentralApplicationTests.java" protocol="file" />
+      <jump line="22" column="4" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/controller/PaymentController.java" protocol="file" />
+      <jump line="6" column="13" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/CentralApplication.java" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/CentralApplication.java" protocol="file" />
+      <jump line="11" column="0" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/CentralApplication.java" protocol="file" />
+      <jump line="9" column="34" filename="$USER_HOME$/IdeaProjects/central/src/main/java/com/domain80/central/CentralApplication.java" protocol="file" />
+      <jump line="2" column="28" filename="$USER_HOME$/IdeaProjects/central/src/test/java/com/domain80/central/CentralApplicationTests.java" protocol="file" />
+    </project>
+    <project id="feign-central-b7f637f8">
+      <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/FeignCentralApplication.java" protocol="file" />
+      <jump line="19" column="15" filename="$USER_HOME$/IdeaProjects/feign-central/pom.xml" protocol="file" />
+      <jump line="21" column="16" filename="$USER_HOME$/IdeaProjects/feign-central/pom.xml" protocol="file" />
+      <jump line="16" column="13" filename="$USER_HOME$/IdeaProjects/feign-central/pom.xml" protocol="file" />
+      <jump line="15" column="9" filename="$USER_HOME$/IdeaProjects/feign-central/pom.xml" protocol="file" />
+      <jump line="5" column="22" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/FeignCentralApplication.java" protocol="file" />
+      <jump line="13" column="22" filename="$USER_HOME$/IdeaProjects/feign-central/pom.xml" protocol="file" />
+      <jump line="2" column="49" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/FeignCentralApplication.java" protocol="file" />
+      <jump line="9" column="24" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/FeignCentralApplication.java" protocol="file" />
+      <jump line="25" column="13" filename="$USER_HOME$/IdeaProjects/feign-central/pom.xml" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/FeignCentralApplication.java" protocol="file" />
+      <jump line="10" column="25" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/FeignCentralApplication.java" protocol="file" />
+      <jump line="6" column="20" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/model/PaymentModel.java" protocol="file" />
+      <jump line="0" column="37" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/resources/application.properties" protocol="file" />
+      <jump line="14" column="25" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/controller/PaymentController.java" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/controller/PaymentController.java" protocol="file" />
+      <jump line="19" column="26" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/controller/PaymentController.java" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="12" column="1" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="6" column="13" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/FeignCentralApplication.java" protocol="file" />
+      <jump line="11" column="15" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/proxy/PaymentProxy.java" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/FeignCentralApplication.java" protocol="file" />
+      <jump line="5" column="19" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/model/Payment.java" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/proxy/PaymentProxy.java" protocol="file" />
+      <jump line="7" column="63" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/config/CloudConfig.java" protocol="file" />
+      <jump line="2" column="42" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/resources/application.properties" protocol="file" />
+      <jump line="23" column="51" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/controller/PaymentController.java" protocol="file" />
+      <jump line="20" column="43" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/controller/PaymentController.java" protocol="file" />
+      <jump line="9" column="31" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/controller/PaymentController.java" protocol="file" />
+      <jump line="11" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/controller/PaymentController.java" protocol="file" />
+      <jump line="10" column="43" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/controller/PaymentController.java" protocol="file" />
+      <jump line="15" column="32" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/controller/PaymentController.java" protocol="file" />
+      <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/controller/PaymentController.java" protocol="file" />
+      <jump line="2" column="49" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="11" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="35" column="14" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="13" column="40" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="39" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="32" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="41" column="24" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="38" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="31" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="43" column="56" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="14" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="26" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="34" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="48" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="21" column="28" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="37" column="55" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="50" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="51" column="53" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="40" column="8" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="52" column="8" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="42" column="25" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="54" column="65" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="55" column="59" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="33" column="9" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="23" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/pom.xml" protocol="file" />
+      <jump line="70" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/pom.xml" protocol="file" />
+      <jump line="68" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/pom.xml" protocol="file" />
+      <jump line="59" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/pom.xml" protocol="file" />
+      <jump line="44" column="8" filename="$USER_HOME$/IdeaProjects/feign-central/pom.xml" protocol="file" />
+      <jump line="12" column="11" filename="$USER_HOME$/IdeaProjects/feign-central/src/main/java/domain80/feign_central/controller/PaymentController.java" protocol="file" />
+      <jump line="30" column="0" filename="$USER_HOME$/IdeaProjects/feign-central/src/test/java/domain80/feign_central/controller/PaymentControllerTest.java" protocol="file" />
+    </project>
+    <project id="secure1-d5911139">
+      <jump line="48" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/util/CsrfRepo.java" protocol="file" />
+      <jump line="36" column="31" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/util/CsrfRepo.java" protocol="file" />
+      <jump line="53" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/util/CsrfRepo.java" protocol="file" />
+      <jump line="50" column="44" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/util/CsrfRepo.java" protocol="file" />
+      <jump line="25" column="53" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/util/CsrfRepo.java" protocol="file" />
+      <jump line="20" column="24" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/WebAuthConfig.java" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/resources/application.properties" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/resources/application.properties" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/resources/application.properties" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/resources/application.properties" protocol="file" />
+      <jump line="9" column="26" filename="$USER_HOME$/IdeaProjects/secure1/src/main/resources/application.properties" protocol="file" />
+      <jump line="13" column="10" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/util/CsrfRepo.java" protocol="file" />
+      <jump line="7" column="13" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/model/User.java" protocol="file" />
+      <jump line="14" column="34" filename="$USER_HOME$/IdeaProjects/secure1/src/main/resources/schema.sql" protocol="file" />
+      <jump line="37" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/WebAuthConfig.java" protocol="file" />
+      <jump line="15" column="11" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.4.2/spring-security-web-6.4.2.jar!/org/springframework/security/web/csrf/CsrfTokenRequestAttributeHandler.class" protocol="jar" />
+      <jump line="32" column="36" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/WebAuthConfig.java" protocol="file" />
+      <jump line="14" column="13" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/util/CsrfRepo.java" protocol="file" />
+      <jump line="29" column="61" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/util/CsrfRepo.java" protocol="file" />
+      <jump line="44" column="4" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/util/CsrfRepo.java" protocol="file" />
+      <jump line="26" column="35" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/util/CsrfRepo.java" protocol="file" />
+      <jump line="18" column="14" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/WebAuthConfig.java" protocol="file" />
+      <jump line="9" column="12" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/CsrfTokenRepo.java" protocol="file" />
+      <jump line="11" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/CsrfTokenRepo.java" protocol="file" />
+      <jump line="8" column="50" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/CsrfTokenRepo.java" protocol="file" />
+      <jump line="50" column="21" filename="$USER_HOME$/IdeaProjects/secure1/pom.xml" protocol="file" />
+      <jump line="59" column="0" filename="$USER_HOME$/IdeaProjects/secure1/pom.xml" protocol="file" />
+      <jump line="40" column="0" filename="$USER_HOME$/IdeaProjects/secure1/pom.xml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/secure1/pom.xml" protocol="file" />
+      <jump line="43" column="8" filename="$USER_HOME$/IdeaProjects/secure1/pom.xml" protocol="file" />
+      <jump line="36" column="19" filename="$USER_HOME$/IdeaProjects/secure1/pom.xml" protocol="file" />
+      <jump line="45" column="42" filename="$USER_HOME$/IdeaProjects/secure1/pom.xml" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/resources/templates/home.xhtml" protocol="file" />
+      <jump line="16" column="16" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" protocol="file" />
+      <jump line="24" column="23" filename="$USER_HOME$/IdeaProjects/secure1/src/main/resources/templates/home.xhtml" protocol="file" />
+      <jump line="23" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/resources/templates/home.xhtml" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/resources/templates/home.xhtml" protocol="file" />
+      <jump line="9" column="15" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" protocol="file" />
+      <jump line="19" column="16" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" protocol="file" />
+      <jump line="10" column="38" filename="$USER_HOME$/IdeaProjects/secure1/src/main/resources/templates/home.xhtml" protocol="file" />
+      <jump line="11" column="43" filename="$USER_HOME$/IdeaProjects/secure1/src/main/resources/templates/home.xhtml" protocol="file" />
+      <jump line="21" column="13" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" protocol="file" />
+      <jump line="33" column="13" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/WebAuthConfig.java" protocol="file" />
+      <jump line="47" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/WebAuthConfig.java" protocol="file" />
+      <jump line="17" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/6.2.1/spring-web-6.2.1.jar!/org/springframework/web/bind/annotation/CrossOrigin.class" protocol="jar" />
+      <jump line="16" column="12" filename="$USER_HOME$/IdeaProjects/secure1/src/main/resources/templates/home.xhtml" protocol="file" />
+      <jump line="38" column="70" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/WebAuthConfig.java" protocol="file" />
+      <jump line="28" column="29" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" protocol="file" />
+      <jump line="27" column="4" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" protocol="file" />
+      <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" protocol="file" />
+      <jump line="29" column="2" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/WebAuthConfig.java" protocol="file" />
+      <jump line="27" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/WebAuthConfig.java" protocol="file" />
+      <jump line="23" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/WebAuthConfig.java" protocol="file" />
+      <jump line="21" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/WebAuthConfig.java" protocol="file" />
+      <jump line="5" column="8" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/services/NameService.java" protocol="file" />
+      <jump line="11" column="27" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" protocol="file" />
+      <jump line="33" column="36" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" protocol="file" />
+      <jump line="14" column="20" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/WebAuthConfig.java" protocol="file" />
+      <jump line="16" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/WebAuthConfig.java" protocol="file" />
+      <jump line="22" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/WebAuthConfig.java" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/WebAuthConfig.java" protocol="file" />
+      <jump line="28" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/WebAuthConfig.java" protocol="file" />
+      <jump line="31" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/WebAuthConfig.java" protocol="file" />
+      <jump line="38" column="48" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/UserManagementConfig.java" protocol="file" />
+      <jump line="20" column="29" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/UserManagementConfig.java" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/UserManagementConfig.java" protocol="file" />
+      <jump line="27" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/UserManagementConfig.java" protocol="file" />
+      <jump line="23" column="20" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/UserManagementConfig.java" protocol="file" />
+      <jump line="12" column="1" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/services/NameService.java" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" protocol="file" />
+      <jump line="11" column="11" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/util/InMemoryUserDetailService.java" protocol="file" />
+      <jump line="33" column="28" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/UserManagementConfig.java" protocol="file" />
+      <jump line="30" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/UserManagementConfig.java" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/UserManagementConfig.java" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/UserManagementConfig.java" protocol="file" />
+      <jump line="36" column="44" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/WebAuthConfig.java" protocol="file" />
+      <jump line="9" column="16" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/services/NameService.java" protocol="file" />
+      <jump line="54" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/WebAuthConfig.java" protocol="file" />
+      <jump line="53" column="65" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/WebAuthConfig.java" protocol="file" />
+      <jump line="0" column="6" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/services/NameService.java" protocol="file" />
+      <jump line="35" column="41" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/UserManagementConfig.java" protocol="file" />
+      <jump line="28" column="30" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/UserManagementConfig.java" protocol="file" />
+      <jump line="30" column="33" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" protocol="file" />
+      <jump line="8" column="35" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/services/NameService.java" protocol="file" />
+      <jump line="31" column="38" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" protocol="file" />
+      <jump line="32" column="46" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/UserManagementConfig.java" protocol="file" />
+      <jump line="6" column="4" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" protocol="file" />
+      <jump line="10" column="28" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" protocol="file" />
+      <jump line="8" column="16" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" protocol="file" />
+      <jump line="17" column="9" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/services/NameService.java" protocol="file" />
+      <jump line="22" column="2" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" protocol="file" />
+      <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" protocol="file" />
+      <jump line="16" column="25" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/services/NameService.java" protocol="file" />
+      <jump line="18" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2.jar!/org/springframework/security/access/prepost/PreAuthorize.class" protocol="jar" />
+      <jump line="14" column="36" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2.jar!/org/springframework/security/access/prepost/PreAuthorize.class" protocol="jar" />
+      <jump line="21" column="14" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/services/NameService.java" protocol="file" />
+      <jump line="29" column="47" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" protocol="file" />
+      <jump line="7" column="13" filename="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" protocol="file" />
+    </project>
+    <project id="spilca4-main-67db5b91">
+      <jump line="6" column="13" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch3-ex2/src/main/java/com/laurentiuspilca/ssia/Main.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch3-ex2/src/main/resources/data.sql" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch14-ex1/pom.xml" protocol="file" />
+      <jump line="12" column="13" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch3-ex2/src/main/java/com/laurentiuspilca/ssia/config/ProjectConfig.java" protocol="file" />
+      <jump line="18" column="16" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex4/pom.xml" protocol="file" />
+      <jump line="8" column="61" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex4/pom.xml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/.idea/spilca4-main.iml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/.idea/workspace.xml" protocol="file" />
+      <jump line="19" column="46" filename="$USER_HOME$/IdeaProjects/spilca4-main/.idea/workspace.xml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/.idea/vcs.xml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/book.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/readme.md.bak" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/README.md" protocol="file" />
+      <jump line="14" column="13" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex4/src/main/java/com/laurentiuspilca/ssia/config/ProjectConfig.java" protocol="file" />
+      <jump line="2" column="49" filename="$USER_HOME$/IdeaProjects/spilca4-main/.idea/spilca4-main.iml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/resources/placeholder.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch3-ex2/src/main/resources/schema.sql" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/Main.java" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/Main.java" protocol="file" />
+    </project>
+    <project id="secure1r-dc911659">
+      <jump line="68" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.4.2/spring-security-web-6.4.2.jar!/org/springframework/security/web/authentication/logout/LogoutFilter.class" protocol="jar" />
+      <jump line="22" column="51" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/util/InMemoryUserDetailsManager.java" protocol="file" />
+      <jump line="60" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.class" protocol="jar" />
+      <jump line="9" column="25" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/util/InMemoryUserDetailsManager.java" protocol="file" />
+      <jump line="30" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2.jar!/org/springframework/security/core/userdetails/User.class" protocol="jar" />
+      <jump line="41" column="93" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2.jar!/org/springframework/security/core/userdetails/User.class" protocol="jar" />
+      <jump line="24" column="55" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/UserDetailsConfig.java" protocol="file" />
+      <jump line="21" column="77" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/SecurityChainConfig.java" protocol="file" />
+      <jump line="25" column="51" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/util/InMemoryUserDetailsManager.java" protocol="file" />
+      <jump line="24" column="28" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/util/InMemoryUserDetailsManager.java" protocol="file" />
+      <jump line="13" column="33" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/util/InMemoryUserDetailsManager.java" protocol="file" />
+      <jump line="14" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/util/InMemoryUserDetailsManager.java" protocol="file" />
+      <jump line="15" column="45" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/util/InMemoryUserDetailsManager.java" protocol="file" />
+      <jump line="21" column="11" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/util/InMemoryUserDetailsManager.java" protocol="file" />
+      <jump line="2" column="26" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/AuthProvider.java" protocol="file" />
+      <jump line="13" column="8" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/AuthProvider.java" protocol="file" />
+      <jump line="15" column="35" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/AuthProvider.java" protocol="file" />
+      <jump line="18" column="54" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/AuthProvider.java" protocol="file" />
+      <jump line="41" column="4" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/AuthProvider.java" protocol="file" />
+      <jump line="27" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/AuthProvider.java" protocol="file" />
+      <jump line="22" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/AuthProvider.java" protocol="file" />
+      <jump line="22" column="53" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/SecurityChainConfig.java" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/SecurityChainConfig.java" protocol="file" />
+      <jump line="27" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/SecurityChainConfig.java" protocol="file" />
+      <jump line="28" column="53" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/SecurityChainConfig.java" protocol="file" />
+      <jump line="15" column="13" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/CustomAuthProvider.java" protocol="file" />
+      <jump line="28" column="8" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/CustomAuthProvider.java" protocol="file" />
+      <jump line="32" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/CustomAuthProvider.java" protocol="file" />
+      <jump line="29" column="27" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/CustomAuthProvider.java" protocol="file" />
+      <jump line="30" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/CustomAuthProvider.java" protocol="file" />
+      <jump line="27" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/CustomAuthProvider.java" protocol="file" />
+      <jump line="19" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/CustomAuthProvider.java" protocol="file" />
+      <jump line="16" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/CustomAuthProvider.java" protocol="file" />
+      <jump line="17" column="12" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/CustomAuthProvider.java" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/CustomAuthProvider.java" protocol="file" />
+      <jump line="35" column="8" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/CustomAuthProvider.java" protocol="file" />
+      <jump line="36" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/CustomAuthProvider.java" protocol="file" />
+      <jump line="43" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/CustomAuthProvider.java" protocol="file" />
+      <jump line="10" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2.jar!/org/springframework/security/authentication/AuthenticationProvider.class" protocol="jar" />
+      <jump line="19" column="32" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/SecurityChainConfig.java" protocol="file" />
+      <jump line="23" column="51" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/SecurityChainConfig.java" protocol="file" />
+      <jump line="31" column="85" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/SecurityChainConfig.java" protocol="file" />
+      <jump line="25" column="4" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/SecurityChainConfig.java" protocol="file" />
+      <jump line="42" column="4" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/CustomAuthProvider.java" protocol="file" />
+      <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/SecurityChainConfig.java" protocol="file" />
+      <jump line="12" column="4" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/controller/Home.java" protocol="file" />
+      <jump line="2" column="14" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/controller/Home.java" protocol="file" />
+      <jump line="28" column="21" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/controller/Home.java" protocol="file" />
+      <jump line="20" column="26" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/controller/Home.java" protocol="file" />
+      <jump line="17" column="40" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/controller/Home.java" protocol="file" />
+      <jump line="16" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/controller/Home.java" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/controller/Home.java" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/controller/Home.java" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/controller/Home.java" protocol="file" />
+      <jump line="26" column="65" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/controller/Home.java" protocol="file" />
+      <jump line="25" column="61" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/controller/Home.java" protocol="file" />
+      <jump line="33" column="30" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/SecurityChainConfig.java" protocol="file" />
+      <jump line="30" column="27" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/SecurityChainConfig.java" protocol="file" />
+      <jump line="34" column="37" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/SecurityChainConfig.java" protocol="file" />
+      <jump line="35" column="53" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/SecurityChainConfig.java" protocol="file" />
+      <jump line="22" column="22" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/UserDetailsConfig.java" protocol="file" />
+      <jump line="23" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/UserDetailsConfig.java" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/UserDetailsConfig.java" protocol="file" />
+      <jump line="145" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2.jar!/org/springframework/security/core/userdetails/User.class" protocol="jar" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/model/User.java" protocol="file" />
+      <jump line="46" column="8" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth/CustomAuthProvider.java" protocol="file" />
+      <jump line="27" column="53" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/util/InMemoryUserDetailsManager.java" protocol="file" />
+      <jump line="21" column="108" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/UserDetailsConfig.java" protocol="file" />
+      <jump line="37" column="87" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/SecurityChainConfig.java" protocol="file" />
+      <jump line="21" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/filters/LoggingFilter.java" protocol="file" />
+      <jump line="27" column="8" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/controller/Home.java" protocol="file" />
+      <jump line="24" column="8" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/controller/Home.java" protocol="file" />
+      <jump line="22" column="24" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/controller/Home.java" protocol="file" />
+      <jump line="39" column="9" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/SecurityChainConfig.java" protocol="file" />
+      <jump line="32" column="36" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/config/SecurityChainConfig.java" protocol="file" />
+      <jump line="13" column="13" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/filters/LoggingFilter.java" protocol="file" />
+      <jump line="16" column="3" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/filters/LoggingFilter.java" protocol="file" />
+      <jump line="3" column="40" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/filters/LoggingFilter.java" protocol="file" />
+      <jump line="22" column="35" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/filters/LoggingFilter.java" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/filters/LoggingFilter.java" protocol="file" />
+      <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/filters/LoggingFilter.java" protocol="file" />
+      <jump line="14" column="57" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/filters/LoggingFilter.java" protocol="file" />
+      <jump line="33" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/filters/LoggingFilter.java" protocol="file" />
+      <jump line="31" column="5" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/filters/LoggingFilter.java" protocol="file" />
+      <jump line="29" column="49" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/filters/LoggingFilter.java" protocol="file" />
+      <jump line="30" column="48" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/filters/LoggingFilter.java" protocol="file" />
+      <jump line="25" column="59" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/filters/LoggingFilter.java" protocol="file" />
+      <jump line="26" column="71" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/filters/LoggingFilter.java" protocol="file" />
+      <jump line="27" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/filters/LoggingFilter.java" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/Main.java" protocol="file" />
+      <jump line="14" column="17" filename="$USER_HOME$/IdeaProjects/secure1r/pom.xml" protocol="file" />
+      <jump line="4" column="4" filename="$USER_HOME$/IdeaProjects/secure1r/pom.xml" protocol="file" />
+      <jump line="6" column="13" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/Main.java" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/src/main/java/domain80/secure1/Main.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/.mvn/wrapper/maven-wrapper.properties" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/.idea/workspace.xml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/secure1r/.idea/uiDesigner.xml" protocol="file" />
+      <jump line="13" column="31" filename="$USER_HOME$/IdeaProjects/secure1r/.idea/uiDesigner.xml" protocol="file" />
+      <jump line="27" column="31" filename="$USER_HOME$/IdeaProjects/secure1r/.idea/workspace.xml" protocol="file" />
+      <jump line="12" column="4" filename="$USER_HOME$/IdeaProjects/secure1r/.idea/workspace.xml" protocol="file" />
+    </project>
+    <project id="ssia-ch6-ex4-90149714">
+      <jump line="4" column="11" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex4/pom.xml" protocol="file" />
+      <jump line="14" column="13" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex4/src/main/java/com/laurentiuspilca/ssia/config/ProjectConfig.java" protocol="file" />
+      <jump line="52" column="17" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex4/src/main/java/com/laurentiuspilca/ssia/config/ProjectConfig.java" protocol="file" />
+      <jump line="53" column="19" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex4/src/main/java/com/laurentiuspilca/ssia/config/ProjectConfig.java" protocol="file" />
+    </project>
+    <project id="ssia-ch6-ex3-90149713">
+      <jump line="8" column="13" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/src/main/java/com/laurentiuspilca/ssia/config/ProjectConfig.java" protocol="file" />
+      <jump line="6" column="13" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/src/main/java/com/laurentiuspilca/ssia/Main.java" protocol="file" />
+      <jump line="11" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/src/main/java/com/laurentiuspilca/ssia/Main.java" protocol="file" />
+      <jump line="14" column="32" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/src/main/java/com/laurentiuspilca/ssia/config/ProjectConfig.java" protocol="file" />
+      <jump line="6" column="13" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/src/main/java/com/laurentiuspilca/ssia/controllers/HelloController.java" protocol="file" />
+      <jump line="16" column="5" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/src/main/java/com/laurentiuspilca/ssia/config/CustomEntryPoint.java" protocol="file" />
+      <jump line="13" column="28" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/src/main/java/com/laurentiuspilca/ssia/config/ProjectConfig.java" protocol="file" />
+      <jump line="19" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/src/main/java/com/laurentiuspilca/ssia/config/ProjectConfig.java" protocol="file" />
+      <jump line="15" column="57" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/src/main/java/com/laurentiuspilca/ssia/config/ProjectConfig.java" protocol="file" />
+      <jump line="11" column="5" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/src/main/java/com/laurentiuspilca/ssia/controllers/HelloController.java" protocol="file" />
+      <jump line="10" column="13" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/src/main/java/com/laurentiuspilca/ssia/config/CustomEntryPoint.java" protocol="file" />
+      <jump line="16" column="8" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/src/main/java/com/laurentiuspilca/ssia/config/ProjectConfig.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/.idea/workspace.xml" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/.idea/workspace.xml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/.idea/vcs.xml" protocol="file" />
+      <jump line="3" column="9" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/.idea/vcs.xml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/src/main/resources/application.properties" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/mvnw.cmd" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/mvnw" protocol="file" />
+      <jump line="49" column="12" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/mvnw" protocol="file" />
+      <jump line="167" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/mvnw" protocol="file" />
+      <jump line="165" column="53" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/mvnw" protocol="file" />
+      <jump line="161" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/mvnw.cmd" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/.mvn/wrapper/MavenWrapperDownloader.java" protocol="file" />
+      <jump line="11" column="12" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/pom.xml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/.idea/jarRepositories.xml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/.idea/encodings.xml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/.idea/compiler.xml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/.idea/google-java-format.xml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/.idea/misc.xml" protocol="file" />
+      <jump line="19" column="26" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/.idea/workspace.xml" protocol="file" />
+      <jump line="36" column="6" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/.mvn/wrapper/MavenWrapperDownloader.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/.mvn/wrapper/maven-wrapper.properties" protocol="file" />
+      <jump line="151" column="18" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/mvnw.cmd" protocol="file" />
+      <jump line="17" column="16" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/pom.xml" protocol="file" />
+      <jump line="2" column="17" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch6-ex3/pom.xml" protocol="file" />
+    </project>
+    <project id="csrf-acbcbd65">
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/csrf/src/main/java/com/domain80/Main.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/csrf/pom.xml" protocol="file" />
+      <jump line="11" column="53" filename="$USER_HOME$/IdeaProjects/csrf/pom.xml" protocol="file" />
+      <jump line="2" column="10" filename="$USER_HOME$/IdeaProjects/csrf/src/main/java/com/domain80/Main.java" protocol="file" />
+      <jump line="17" column="8" filename="$USER_HOME$/IdeaProjects/csrf/pom.xml" protocol="file" />
+      <jump line="16" column="17" filename="$USER_HOME$/IdeaProjects/csrf/pom.xml" protocol="file" />
+      <jump line="19" column="46" filename="$USER_HOME$/IdeaProjects/csrf/pom.xml" protocol="file" />
+      <jump line="31" column="0" filename="$USER_HOME$/IdeaProjects/csrf/pom.xml" protocol="file" />
+      <jump line="10" column="12" filename="$USER_HOME$/IdeaProjects/csrf/pom.xml" protocol="file" />
+      <jump line="4" column="21" filename="$USER_HOME$/IdeaProjects/csrf/src/main/java/com/domain80/Main.java" protocol="file" />
+      <jump line="41" column="0" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.5.12/logback-core-1.5.12.jar!/META-INF/maven/ch.qos.logback/logback-core/pom.xml" protocol="jar" />
+      <jump line="39" column="25" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.5.12/logback-core-1.5.12.jar!/META-INF/maven/ch.qos.logback/logback-core/pom.xml" protocol="jar" />
+      <jump line="38" column="39" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.5.12/logback-core-1.5.12.jar!/META-INF/maven/ch.qos.logback/logback-core/pom.xml" protocol="jar" />
+      <jump line="168" column="25" filename="/opt/homebrew/Cellar/openjdk@21/21.0.5/libexec/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.internal.le/jdk/internal/org/jline/terminal/TerminalBuilder.java" protocol="jar" />
+      <jump line="10" column="4" filename="$USER_HOME$/IdeaProjects/csrf/src/main/java/com/domain80/Main.java" protocol="file" />
+      <jump line="11" column="0" filename="$USER_HOME$/IdeaProjects/csrf/src/main/java/com/domain80/Main.java" protocol="file" />
+      <jump line="52" column="35" filename="/opt/homebrew/Cellar/openjdk@21/21.0.5/libexec/openjdk.jdk/Contents/Home/lib/src.zip!/jdk.internal.le/jdk/internal/org/jline/terminal/TerminalBuilder.java" protocol="jar" />
+      <jump line="37" column="35" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.5.12/logback-core-1.5.12.jar!/META-INF/maven/ch.qos.logback/logback-core/pom.xml" protocol="jar" />
+    </project>
+    <project id="ssia-ch9-ex3-903edd96">
+      <jump line="17" column="38" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/pom.xml" protocol="file" />
+      <jump line="16" column="15" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/pom.xml" protocol="file" />
+      <jump line="13" column="28" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/pom.xml" protocol="file" />
+      <jump line="11" column="13" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/controllers/HelloController.java" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/controllers/HelloController.java" protocol="file" />
+      <jump line="14" column="2" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/controllers/HelloController.java" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/controllers/HelloController.java" protocol="file" />
+      <jump line="22" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/controllers/HelloController.java" protocol="file" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-beans/6.0.9/spring-beans-6.0.9.jar!/org/springframework/beans/factory/UnsatisfiedDependencyException.class" protocol="jar" />
+      <jump line="11" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/spring-beans/6.0.9/spring-beans-6.0.9.jar!/org/springframework/beans/factory/UnsatisfiedDependencyException.class" protocol="jar" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/csrf/CustomCsrfTokenRepository.java" protocol="file" />
+      <jump line="2" column="7" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/repositories/JpaTokenRepository.java" protocol="file" />
+      <jump line="6" column="13" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/Main.java" protocol="file" />
+      <jump line="10" column="13" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/config/ProjectConfig.java" protocol="file" />
+      <jump line="17" column="13" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/csrf/CustomCsrfTokenRepository.java" protocol="file" />
+      <jump line="11" column="40" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/pom.xml" protocol="file" />
+      <jump line="30" column="40" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/pom.xml" protocol="file" />
+      <jump line="14" column="43" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/config/ProjectConfig.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/resources/application.properties" protocol="file" />
+      <jump line="41" column="13" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/pom.xml" protocol="file" />
+      <jump line="27" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/controllers/HelloController.java" protocol="file" />
+      <jump line="30" column="37" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/config/ProjectConfig.java" protocol="file" />
+      <jump line="29" column="4" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/csrf/CustomCsrfTokenRepository.java" protocol="file" />
+      <jump line="30" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/csrf/CustomCsrfTokenRepository.java" protocol="file" />
+      <jump line="11" column="8" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/csrf/CustomCsrfTokenRepository.java" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/repositories/JpaTokenRepository.java" protocol="file" />
+      <jump line="7" column="62" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/repositories/JpaTokenRepository.java" protocol="file" />
+      <jump line="8" column="13" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/entities/Token.java" protocol="file" />
+      <jump line="16" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/3.1.0/spring-data-jpa-3.1.0.jar!/org/springframework/data/jpa/repository/JpaRepository.class" protocol="jar" />
+      <jump line="8" column="58" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/repositories/JpaTokenRepository.java" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/csrf/CustomCsrfTokenRepository.java" protocol="file" />
+      <jump line="43" column="48" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/csrf/CustomCsrfTokenRepository.java" protocol="file" />
+      <jump line="45" column="23" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/csrf/CustomCsrfTokenRepository.java" protocol="file" />
+      <jump line="19" column="18" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/csrf/CustomCsrfTokenRepository.java" protocol="file" />
+      <jump line="10" column="10" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/repositories/JpaTokenRepository.java" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/Main.java" protocol="file" />
+      <jump line="21" column="18" filename="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/csrf/CustomCsrfTokenRepository.java" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/CsrfTokenRepo.java" timestamp="1735949438222">
+        <mark key="&quot;" line="8" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/pom.xml" timestamp="1735953563100">
+        <mark key="&quot;" line="41" column="13" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/util/InMemoryUserDetailService.java" timestamp="1736016514484">
+        <mark key="&quot;" line="11" column="11" />
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="34" />
+        <mark key="^" line="8" column="34" />
+        <mark key="." line="8" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/services/NameService.java" timestamp="1736016514488">
+        <mark key="&quot;" line="21" column="14" />
+        <mark key="'" line="21" column="14" />
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="25" />
+        <mark key="^" line="16" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/controllers/HelloController.java" timestamp="1735953563102">
+        <mark key="&quot;" line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/csrf/CustomCsrfTokenRepository.java" timestamp="1735953563104">
+        <mark key="&quot;" line="21" column="18" />
+        <mark key="'" line="19" column="18" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/6.0.9/spring-beans-6.0.9.jar!/org/springframework/beans/factory/UnsatisfiedDependencyException.class" timestamp="1735953563108">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/secure1/src/main/resources/application.properties" timestamp="1735949349690">
+        <mark key="&quot;" line="9" column="26" />
+        <mark key="[" line="1" column="49" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/Main.java" timestamp="1735953563106">
+        <mark key="&quot;" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/WebAuthConfig.java" timestamp="1736016514478">
+        <mark key="&quot;" line="53" column="65" />
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="53" column="51" />
+        <mark key="]" line="53" column="66" />
+        <mark key="." line="53" column="65" />
+        <mark key="^" line="53" column="66" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/secure1/pom.xml" timestamp="1735949349699">
+        <mark key="&quot;" line="45" column="42" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="8" />
+        <mark key="." line="40" column="7" />
+        <mark key="^" line="40" column="8" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/repositories/JpaTokenRepository.java" timestamp="1735953563105">
+        <mark key="&quot;" line="10" column="10" />
+        <mark key="'" line="9" column="62" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="10" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/controller/HomeController.java" timestamp="1736016514486">
+        <mark key="&quot;" line="7" column="13" />
+        <mark key="'" line="29" column="47" />
+        <mark key="[" line="29" column="62" />
+        <mark key="]" line="29" column="73" />
+        <mark key="." line="29" column="72" />
+        <mark key="^" line="29" column="73" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/config/UserManagementConfig.java" timestamp="1736016514481">
+        <mark key="&quot;" line="32" column="46" />
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="32" column="46" />
+        <mark key="]" line="32" column="46" />
+        <mark key="^" line="19" column="18" />
+        <mark key="." line="32" column="46" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2.jar!/org/springframework/security/access/prepost/PreAuthorize.class" timestamp="1735955713431">
+        <mark key="&quot;" line="14" column="36" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/entities/Token.java" timestamp="1735953563107">
+        <mark key="&quot;" line="8" column="13" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/secure1/src/main/java/domain80/secure1/util/CsrfRepo.java" timestamp="1735949349694">
+        <mark key="&quot;" line="26" column="35" />
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="26" column="35" />
+        <mark key="." line="26" column="24" />
+        <mark key="^" line="26" column="24" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/6.2.1/spring-web-6.2.1.jar!/org/springframework/web/bind/annotation/CrossOrigin.class" timestamp="1735951002933">
+        <mark key="&quot;" line="17" column="18" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/secure1/src/main/resources/templates/home.xhtml" timestamp="1735951008597">
+        <mark key="&quot;" line="16" column="12" />
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="17" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spilca4-main/code/ssia-ch9-ex3/src/main/java/com/laurentiuspilca/ssia/config/ProjectConfig.java" timestamp="1735953563103">
+        <mark key="&quot;" line="30" column="37" />
+        <mark key="'" line="14" column="43" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">KA==</text>
+      </register>
+      <register name="c" type="CHARACTER_WISE">
+        <text encoding="base64">cw==</text>
+      </register>
+      <register name="f" type="CHARACTER_WISE">
+        <text encoding="base64" />
+      </register>
+      <register name="*" type="CHARACTER_WISE">
+        <text encoding="base64">KA==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">KA==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">ZGF0YQ==</text>
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">ICBTdHJpbmcgZ2V0TmFtZShAUGF0aFZhcmlhYmxlIFN0cmluZyBuYW1lKSB7CiAgICByZXR1cm4gIkhlbGxvICIgKyBuYW1lU2VydmljZS5nZXROYW1lKG5hbWUpOwogIH0K</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ICBAUmVzcG9uc2VCb2R5Cg==</text>
+      </register>
+      <register name="q" type="CHARACTER_WISE">
+        <keys>
+          <key char="102" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">aW1wb3J0IGRvbWFpbjgwLnNlY3VyZTEudXRpbC5Jbk1lbW9yeVVzZXJEZXRhaWxTZXJ2aWNlOwo=</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICAgIC8vICAgICAgICB1c2VyTWFuYWdlci5jcmVhdGVVc2VyKHVzZXIpOwo=</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgIC8vICAgICAgICBKZGJjVXNlckRldGFpbHNNYW5hZ2VyIHVzZXJNYW5hZ2VyID0gbmV3IEpkYmNVc2VyRGV0YWlsc01hbmFnZXIoZGF0YVNvdXJjZSk7Cgo=</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgb3JnLnNwcmluZ2ZyYW1ld29yay5zZWN1cml0eS5jb3JlLnVzZXJkZXRhaWxzLlVzZXIud2l0aFVzZXJuYW1lKCkK</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">aW1wb3J0IGpkay5pbnRlcm5hbC5qaW1hZ2UuQmFzaWNJbWFnZVJlYWRlcjsK</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">ICBARW5hYmxlTWV0aG9kU2VjdXJpdHkK</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">ICAgIEJhc2ljSW1hZ2VSZWFkZXIgbmFtZVNlcnZpY2U7Cg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICBAQ3Jvc3NPcmlnaW4oIipkZCIpCg==</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">ZGF0YQ==</last-search>
+      <last-substitute encoding="base64">c3ByaW5n</last-substitute>
+      <last-offset encoding="base64" />
+      <last-replace encoding="base64">c2VjdXJlMQ==</last-replace>
+      <last-pattern encoding="base64">ZGF0YQ==</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

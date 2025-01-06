@@ -1,81 +1,127 @@
 let mapleader=" "
 
-""" Plugins  --------------------------------
-set surround
-set multiple-cursors
-set commentary
-set argtextobj
-set textobj-entire
-set ReplaceWithRegister
-set exchange
-
-set incsearch
+""" General settings  --------------------------------
+set scrolloff=10
+set relativenumber
+set linenumber
+set showmode
+set showcmd
+set visualbell
+set clipboard+=unnamed
 set ignorecase
 set smartcase
-set clipboard+=unnamed
-set ideajoin
-set ideaput
-set relativenumber
-set number
-set surround
-set highlightedyank
-set idearefactormode=keep
-set ideajoin
-set showmode
-set NERDTree
-
-" Trying the new syntax
-Plug 'machakann/vim-highlightedyank'
-Plug 'tpope/vim-surround'		    " ys, cs, ds, S
-
-""" Plugin settings -------------------------
-let g:argtextobj_pairs="[:],(:),<:>"
-
-" <C-n> seems to me as a better solution than <M-n>,
-" but we should finally support vim-visual-multi because vim-multiple-cursors is deprecated now
-map <C-n> <Plug>NextWholeOccurrence
-
-""" Common settings -------------------------
-set showmode
-set so=5
 set incsearch
-set nu
+set hlsearch
 
-""" Idea specific settings ------------------
-set ideajoin
-set ideastatusicon=gray
-set ralativenumber
+"""-------------------------------------------------
+""" Keymaps  -----------------------------------
+"""-------------------------------------------------
 
-""" My Mappings -----------------------------
-
-nmap <leader>w :action SaveDocument <CR>
-nmap <leader>q :action CloseEditor <CR>
-
-
+inoremap jk <Esc>
 nnoremap L $
 nnoremap H ^
 vnoremap L $
 vnoremap H ^
 
-noremap <SPACE> <Nop>
-" nnoremap <SPACE> :
-
-imap jk <ESC>
-imap kj <ESC>
-
 nmap zj o<ESC>k
 nmap zk O<ESC>j
+nmap U <C-r>
 
 
-" I think it's a better solution
-map U <C-R>
-nmap <leader>t <Action>(ActivateTerminalToolWindow)
+" Tab navigation
+nnoremap <A-n> :tabnext<CR>
+nnoremap <A-p> :tabprev<CR>\
 
-" formatting
-nnoremap == :action ReformatCode <CR>
-vnoremap == :action ReformatCode <CR>
-nnoremap -- :action OptimizeImports <CR>
-vnoremap -- :action OptimizeImports <CR>
+" Pane navigation
+nnoremap <A-h> <C-w>h
+nnoremap <A-l> <C-w>l
+nnoremap <A-k> <C-w>k
+nnoremap <A-j> <C-w>j
 
-nnoremap <leader>/ :action CommentByLineComment <CR>
-vnoremap cc :action CommentByLineComment <CR>
+" Jump between methods
+nnoremap [[ :action MethodUp<CR>
+nnoremap ]] :action  MethodDown<CR>
+
+" Easy visual indentation
+vnoremap < <gv
+vnoremap > >gv
+
+
+" Comment lines
+map <leader>/ <action>(CommentByLineComment)
+
+" Open NERDTree (use q to exit)
+map <leader>ee :NERDTreeToggle<CR>
+
+" Folding
+map <leader>zc :action CollapseAllRegions<CR>
+map <leader>zo :action ExpandAllRegions<CR>
+
+" Window splits
+map <leader>sv <Action>(SplitVertically)
+map <leader>ss <Action>(SplitHorizontally)
+map <leader>su <Action>(Unsplit)
+map <leader>sm <Action>(MoveEditorToOppositeTabGroup)
+
+" File navigation
+map <leader>ff <action>(GotoFile)
+map <leader>fr <action>(RecentFiles)
+map <leader>fc <action>(FindInPath)
+map <leader><leader> <Action>(RecentFiles)
+map <leader>fl <action>(RecentLocations)
+map <leader>fs <action>(NewScratchFile)
+
+" Close active tab
+map <leader>q <action>(CloseContent)
+map <leader>w <action>(SaveDocument)
+
+" Refactoring
+map <leader>rn <Action>(RenameElement)
+map <leader>rm <Action>(ExtractMethod)
+map <leader>rv <Action>(IntroduceVariable)
+map <leader>rf <Action>(IntroduceField)
+" map <leader>rs <Action>(ChangeSignature) 
+map <leader>rr <Action>(Refactorings.QuickListPopupAction)
+
+" Go to code
+nmap <leader>gd <Action>(GotoDeclaration)
+nmap <leader>gy <Action>(GotoTypeDeclaration)
+nmap <leader>gi <action>(gotoimplementation)
+nmap <leader>gu <action>(showusages)
+nmap <leader>gt <action>(gototest)
+
+" Errors
+map <leader>en <Action>(ReSharperGotoNextErrorInSolution)
+map <leader>ep <Action>(ReSharperGotoPrevErrorInSolution)
+
+""""""""""""""""""""""""""""""""""""""Run""""""""""""""""""""""""""""""""""""""
+nnoremap <leader>dc :action RunConfiguration<CR>
+noremap <leader>dr :action Run<CR>
+"" noremap <Space>rn :action RunClass<CR>
+noremap <leader>dd :action Debug<CR>
+"" noremap <Space>dn :action DebugClass<CR>
+noremap <leader>cc :action Coverage<CR>
+noremap <leader>cn :action RunCoverage<CR>
+noremap <leader>ds   :action Stop<CR>
+
+""""""""""""""""""""""""""""""""""""""Information""""""""""""""""""""""""""""""""""""""
+noremap <Space>ed :action ShowErrorDescription<CR>
+noremap <Space>ti :action ExpressionTypeInfo<CR>
+noremap <Space>pi :action ParameterInfo<CR>
+noremap <Space>jd :action QuickJavaDoc<CR>
+noremap <Space>fs mm`m:action FileStructurePopup<CR>
+noremap <Space>sd  :action ShowUmlDiagram<CR>
+noremap <Space>ch :action CallHierarchy<CR>
+nnoremap <Space>fu :action FindUsages<CR>
+nnoremap <Space>su :action ShowUsages<CR>
+"" noremap <Space>mh :action MethodHierarchy<CR>
+noremap <Space>ss  :action ShowSettings<CR>
+ noremap <Space>ps :action ShowProjectStructureSettings<CR>
+
+"""-------------------------------------------------
+""" Plugins  -----------------------------------
+"""-------------------------------------------------
+set surround
+set highlightedyank
+set nerdtree
+set which-key

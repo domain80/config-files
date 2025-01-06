@@ -1,0 +1,582 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="hiSpring" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2k8jk1ydp4blu" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/domain80/Main.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="198">
+              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Main.java","foregroundColor":-16351977,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"67d17"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/domain80/Config.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="110">
+              <caret line="5" column="13" selection-start-line="4" selection-end-line="5" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Config.java","foregroundColor":-16351977,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"67d17"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/domain80/part/One.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <folding>
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"One.java","foregroundColor":-16351977,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"67d17"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="440">
+              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"pom.xml (hiSpring)","foregroundColor":-16351977,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"67d17"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,88,10,31,105,99,111,110,115,47,114,101,112,111,115,105,116,111,114,121,76,105,98,114,97,114,121,76,111,103,111,46,115,118,103,18,21,105,99,111,110,115,47,101,120,112,117,105,47,109,97,118,101,110,46,115,118,103,26,17,99,111,109,46,105,110,116,101,108,108,105,106,46,106,97,118,97,40,-81,-67,-81,-7,-5,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 11,
+      "lastUsed": 1734367595525
+    },
+    "XML": {
+      "usageCount": 2,
+      "lastUsed": 1734359967027
+    },
+    "CLASS": {
+      "usageCount": 1,
+      "lastUsed": 1734366002593
+    },
+    "textmate": {
+      "usageCount": 1,
+      "lastUsed": 1734367683789
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/src/main/java/domain80/Parrot.java" />
+      <option value="$PROJECT_DIR$/src/main/java/domain80/main/Parrot.java" />
+      <option value="$PROJECT_DIR$/src/main/java/domain80/main/sample.java" />
+      <option value="$PROJECT_DIR$/src/main/java/domain80/config/ProjectConfig.java" />
+      <option value="$PROJECT_DIR$/src/main/java/domain80/sample.java" />
+      <option value="$PROJECT_DIR$/src/main/java/domain80/main/Main.java" />
+      <option value="$PROJECT_DIR$/src/main/java/domain80/ProjectConfig.java" />
+      <option value="$PROJECT_DIR$/src/main/java/domain80/part/one.java" />
+      <option value="$PROJECT_DIR$/src/main/java/domain80/part/One.java" />
+      <option value="$PROJECT_DIR$/src/main/java/domain80/Main.java" />
+      <option value="$PROJECT_DIR$/src/main/java/domain80/Config.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="11" lastUsage="1734367595525" />
+    </language>
+    <language id="XML">
+      <summary usageCount="2" lastUsage="1734359967027" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1734367683789" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hiSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hiSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hiSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hiSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hiSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src/main/java/domain80}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hiSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src/main/java/domain80}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src/main/java/domain80/config}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hiSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src/main/java/domain80}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src/main/java/domain80/part}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hiSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="extratci/icons/custom/toolWindowProject.svg" iconPlugin="lermitage.intellij.extratci" isLeaf="false" text="hiSpring" />
+            <item name="hiSpring" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="hiSpring" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/main" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="main" />
+                  <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src/main}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="java" />
+                    <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src/main/java}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/main/java/domain80" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="domain80" />
+                      <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src/main/java/domain80}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/domain80/config" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="config" />
+                        <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src/main/java/domain80/config}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/domain80/part" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="part" />
+                        <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src/main/java/domain80/part}" type="462c0819:PsiDirectoryNode" />
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/java/domain80/part/One.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="One" />
+                          <item name="One" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/domain80/Config.java" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Config" />
+                        <item name="Config" type="1a9f42e2:ClassTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/domain80/Main.java" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Main" />
+                        <item name="Main" type="1a9f42e2:ClassTreeNode" />
+                      </presentation>
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/resources" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="true" text="resources" />
+                    <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/test" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="test" />
+                  <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/src/test}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/target" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="target" />
+                <item name="dir{file:///Users/domain80/IdeaProjects/hiSpring/target}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pom.xml" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/maven.svg" iconPlugin="com.intellij.java" isLeaf="true" text="pom.xml" />
+                <item name="pom.xml" type="d371aba8:MavenTreeStructureProvider$MavenPomFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/jdk.svg" iconPlugin="com.intellij" isLeaf="false" text="&lt; 23 &gt;" />
+                <item name="&lt; 23 &gt;" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/libraryFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Maven: org.springframework:spring-aop:5.3.2" />
+                <item name="Maven: org.springframework:spring-aop:5.3.2" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/libraryFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Maven: org.springframework:spring-beans:5.3.2" />
+                <item name="Maven: org.springframework:spring-beans:5.3.2" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/libraryFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Maven: org.springframework:spring-context:5.3.2" />
+                <item name="Maven: org.springframework:spring-context:5.3.2" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/libraryFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Maven: org.springframework:spring-core:5.3.2" />
+                <item name="Maven: org.springframework:spring-core:5.3.2" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/libraryFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Maven: org.springframework:spring-expression:5.3.2" />
+                <item name="Maven: org.springframework:spring-expression:5.3.2" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/libraryFolder.svg" iconPlugin="com.intellij" isLeaf="false" text="Maven: org.springframework:spring-jcl:5.3.2" />
+                <item name="Maven: org.springframework:spring-jcl:5.3.2" type="70bed36:NamedLibraryElementNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Main" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33013505" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.3295858" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.3295858" />
+      <window_info anchor="bottom" id="Debug" order="7" show_stripe_button="false" weight="0.31420118" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.33013505" />
+      <unified_weights bottom="0.3295858" left="0.33013505" right="0.33013505" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Build</value>
+      <value>Maven</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="352" y="140" width="810" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1734365957058">
+      <screen x="0" y="38" width="1512" height="892" />
+    </state>
+    <state x="352" y="140" width="810" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.38.1512.892@0.38.1512.892" timestamp="1734365957058" />
+    <state x="490" y="228" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1734367348331">
+      <screen x="0" y="38" width="1512" height="892" />
+    </state>
+    <state x="490" y="228" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.38.1512.892@0.38.1512.892" timestamp="1734367348331" />
+    <state width="1325" height="235" key="GridCell.Tab.0.bottom" timestamp="1734368555862">
+      <screen x="0" y="38" width="1512" height="892" />
+    </state>
+    <state width="1325" height="235" key="GridCell.Tab.0.bottom/0.38.1512.892@0.38.1512.892" timestamp="1734368555862" />
+    <state width="1325" height="235" key="GridCell.Tab.0.center" timestamp="1734368555862">
+      <screen x="0" y="38" width="1512" height="892" />
+    </state>
+    <state width="1325" height="235" key="GridCell.Tab.0.center/0.38.1512.892@0.38.1512.892" timestamp="1734368555862" />
+    <state width="1325" height="235" key="GridCell.Tab.0.left" timestamp="1734368555862">
+      <screen x="0" y="38" width="1512" height="892" />
+    </state>
+    <state width="1325" height="235" key="GridCell.Tab.0.left/0.38.1512.892@0.38.1512.892" timestamp="1734368555862" />
+    <state width="1325" height="235" key="GridCell.Tab.0.right" timestamp="1734368555862">
+      <screen x="0" y="38" width="1512" height="892" />
+    </state>
+    <state width="1325" height="235" key="GridCell.Tab.0.right/0.38.1512.892@0.38.1512.892" timestamp="1734368555862" />
+    <state width="1325" height="222" key="GridCell.Tab.1.bottom" timestamp="1734359912874">
+      <screen x="0" y="38" width="1512" height="892" />
+    </state>
+    <state width="1325" height="222" key="GridCell.Tab.1.bottom/0.38.1512.892@0.38.1512.892" timestamp="1734359912874" />
+    <state width="1325" height="222" key="GridCell.Tab.1.center" timestamp="1734359912874">
+      <screen x="0" y="38" width="1512" height="892" />
+    </state>
+    <state width="1325" height="222" key="GridCell.Tab.1.center/0.38.1512.892@0.38.1512.892" timestamp="1734359912874" />
+    <state width="1325" height="222" key="GridCell.Tab.1.left" timestamp="1734359912874">
+      <screen x="0" y="38" width="1512" height="892" />
+    </state>
+    <state width="1325" height="222" key="GridCell.Tab.1.left/0.38.1512.892@0.38.1512.892" timestamp="1734359912874" />
+    <state width="1325" height="222" key="GridCell.Tab.1.right" timestamp="1734359912874">
+      <screen x="0" y="38" width="1512" height="892" />
+    </state>
+    <state width="1325" height="222" key="GridCell.Tab.1.right/0.38.1512.892@0.38.1512.892" timestamp="1734359912874" />
+    <state x="340" y="222" key="IDE.errors.dialog" timestamp="1734305868679">
+      <screen x="0" y="38" width="1512" height="885" />
+    </state>
+    <state x="340" y="222" key="IDE.errors.dialog/0.38.1512.885@0.38.1512.885" timestamp="1734305868679" />
+    <state x="261" y="119" key="SettingsEditor" timestamp="1734309970620">
+      <screen x="0" y="38" width="1512" height="892" />
+    </state>
+    <state x="261" y="119" key="SettingsEditor/0.38.1512.892@0.38.1512.892" timestamp="1734309970620" />
+    <state x="383" y="186" key="caller.chooser.dialog" timestamp="1734367350867">
+      <screen x="0" y="38" width="1512" height="892" />
+    </state>
+    <state x="383" y="186" key="caller.chooser.dialog/0.38.1512.892@0.38.1512.892" timestamp="1734367350867" />
+    <state x="545" y="253" key="chooseDestDirectoryDialog" timestamp="1734309917018">
+      <screen x="0" y="38" width="1512" height="892" />
+    </state>
+    <state x="545" y="253" key="chooseDestDirectoryDialog/0.38.1512.892@0.38.1512.892" timestamp="1734309917018" />
+    <state x="490" y="187" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1734306014106">
+      <screen x="0" y="38" width="1512" height="885" />
+    </state>
+    <state x="490" y="187" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.38.1512.885@0.38.1512.885" timestamp="1734306014106" />
+    <state x="352" y="123" width="800" height="715" key="new project wizard" timestamp="1734368553985">
+      <screen x="0" y="38" width="1512" height="892" />
+    </state>
+    <state x="352" y="123" width="800" height="715" key="new project wizard/0.38.1512.892@0.38.1512.892" timestamp="1734368553985" />
+    <state x="417" y="229" width="699" height="711" key="search.everywhere.popup" timestamp="1734367519881">
+      <screen x="0" y="38" width="1512" height="892" />
+    </state>
+    <state x="417" y="229" width="699" height="711" key="search.everywhere.popup/0.38.1512.892@0.38.1512.892" timestamp="1734367519881" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain80/sample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.2/spring-context-5.3.2.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain80/Parrot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain80/ProjectConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.2/spring-context-5.3.2-sources.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="77" column="11" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.ideavimrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain80/part/One.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain80/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain80/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="4" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

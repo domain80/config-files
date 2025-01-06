@@ -1,0 +1,955 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="secure1r" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="6r3159uiqbs0" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/domain80/secure1/config/SecurityChainConfig.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="704">
+              <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"SecurityChainConfig.java","foregroundColor":-16777216,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/domain80/secure1/filters/LoggingFilter.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="228">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"LoggingFilter.java","foregroundColor":-16777216,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"maven-wrapper.properties","foregroundColor":-16777216,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,85,10,24,102,105,108,101,84,121,112,101,115,47,112,114,111,112,101,114,116,105,101,115,46,115,118,103,18,30,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,112,114,111,112,101,114,116,105,101,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-9,-117,-107,-50,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="198">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"workspace.xml","foregroundColor":-16777216,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,66,10,17,102,105,108,101,84,121,112,101,115,47,120,109,108,46,115,118,103,18,23,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,120,109,108,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-33,-3,-24,-123,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="286">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"uiDesigner.xml","foregroundColor":-16777216,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,66,10,17,102,105,108,101,84,121,112,101,115,47,120,109,108,46,115,118,103,18,23,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,120,109,108,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-33,-3,-24,-123,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-13">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"pom.xml (secure1)","foregroundColor":-16777216,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,88,10,31,105,99,111,110,115,47,114,101,112,111,115,105,116,111,114,121,76,105,98,114,97,114,121,76,111,103,111,46,115,118,103,18,21,105,99,111,110,115,47,101,120,112,117,105,47,109,97,118,101,110,46,115,118,103,26,17,99,111,109,46,105,110,116,101,108,108,105,106,46,106,97,118,97,40,-81,-67,-81,-7,-5,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/domain80/secure1/controller/Home.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="484">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#744#745#0" expanded="true" />
+                <element signature="e#784#785#0" expanded="true" />
+                <element signature="e#917#918#0" expanded="true" />
+                <element signature="e#937#938#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Home.java","foregroundColor":-16777216,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/domain80/secure1/config/UserDetailsConfig.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="462">
+              <caret line="21" column="108" selection-start-line="21" selection-start-column="108" selection-end-line="21" selection-end-column="108" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1147#1148#0" expanded="true" />
+                <element signature="e#1203#1204#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"UserDetailsConfig.java","foregroundColor":-16777216,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/domain80/secure1/auth/CustomAuthProvider.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1012">
+              <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1850#1851#0" expanded="true" />
+                <element signature="e#1877#1878#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"CustomAuthProvider.java","foregroundColor":-16777216,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/domain80/secure1/util/InMemoryUserDetailsManager.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="594">
+              <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#587#588#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"InMemoryUserDetailsManager.java","foregroundColor":-16777216,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 32,
+      "lastUsed": 1735832207661
+    },
+    "XML": {
+      "usageCount": 4,
+      "lastUsed": 1735832927820
+    },
+    "CLASS": {
+      "usageCount": 11,
+      "lastUsed": 1735740135582
+    },
+    "Properties": {
+      "usageCount": 2,
+      "lastUsed": 1735832010095
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>logback</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/.idea</dir>
+      <dir />
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="directoryName" value="" />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/domain80/secure1/config/UserDetailsManager.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+      <option value="$PROJECT_DIR$/src/main/java/domain80/secure1/util/InMemoryUserDetailsManager.java" />
+      <option value="$PROJECT_DIR$/src/main/java/domain80/secure1/auth/AuthProvider.java" />
+      <option value="$PROJECT_DIR$/src/main/java/domain80/secure1/auth/CustomAuthProvider.java" />
+      <option value="$PROJECT_DIR$/src/main/java/domain80/secure1/config/UserDetailsConfig.java" />
+      <option value="$PROJECT_DIR$/src/main/java/domain80/secure1/controller/Home.java" />
+      <option value="$PROJECT_DIR$/src/main/java/domain80/secure1/config/SecurityChainConfig.java" />
+      <option value="$PROJECT_DIR$/src/main/java/domain80/secure1/filters/LoggingFilter.java" />
+      <option value="$PROJECT_DIR$/src/main/java/domain80/secure1/Secure1Application.java" />
+      <option value="$PROJECT_DIR$/src/main/java/domain80/secure1/Main.java" />
+      <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="32" lastUsage="1735832207661" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="2" lastUsage="1735832010095" />
+    </language>
+    <language id="XML">
+      <summary usageCount="4" lastUsage="1735832927820" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="secure1r" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="secure1r" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/.idea}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="secure1r" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="secure1r" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="secure1r" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="secure1r" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/main/java/domain80/secure1}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="secure1r" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="secure1r" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/test/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="secure1r" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/test/java/domain80/secure1}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="extratci/icons/custom/toolWindowProject.svg" iconPlugin="lermitage.intellij.extratci" isLeaf="false" text="secure1r" />
+            <item name="secure1r" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="secure1r" />
+              <item name="dir{file:///Users/domain80/IdeaProjects/secure1r}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/.idea}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.idea/.gitignore" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                  <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.idea/compiler.xml" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="compiler.xml" />
+                  <item name="compiler.xml" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.idea/encodings.xml" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="encodings.xml" />
+                  <item name="encodings.xml" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.idea/google-java-format.xml" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="google-java-format.xml" />
+                  <item name="google-java-format.xml" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.idea/jarRepositories.xml" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="jarRepositories.xml" />
+                  <item name="jarRepositories.xml" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.idea/misc.xml" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="misc.xml" />
+                  <item name="misc.xml" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="uiDesigner.xml" />
+                  <item name="uiDesigner.xml" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.idea/vcs.xml" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="vcs.xml" />
+                  <item name="vcs.xml" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.idea/workspace.xml" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="workspace.xml" />
+                  <item name="workspace.xml" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.mvn" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".mvn" />
+                <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/.mvn}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/main" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="main" />
+                  <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/main}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="java" />
+                    <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/main/java}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/main/java/domain80/secure1" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="domain80.secure1" />
+                      <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/main/java/domain80/secure1}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/domain80/secure1/auth" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="auth" />
+                        <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/main/java/domain80/secure1/auth}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/domain80/secure1/config" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="config" />
+                        <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/main/java/domain80/secure1/config}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/domain80/secure1/controller" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="controller" />
+                        <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/main/java/domain80/secure1/controller}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/domain80/secure1/filters" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="filters" />
+                        <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/main/java/domain80/secure1/filters}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/domain80/secure1/model" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="model" />
+                        <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/main/java/domain80/secure1/model}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/domain80/secure1/util" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="util" />
+                        <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/main/java/domain80/secure1/util}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/domain80/secure1/Main.java" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Main" />
+                        <item name="Main" type="1a9f42e2:ClassTreeNode" />
+                      </presentation>
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/resources" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="resources" />
+                    <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/test" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="test" />
+                  <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/test}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/test/java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/testRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="java" />
+                    <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/test/java}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/test/java/domain80/secure1" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="domain80.secure1" />
+                      <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/src/test/java/domain80/secure1}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/test/java/domain80/secure1/MainTests.java" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="MainTests" />
+                        <item name="MainTests" type="1a9f42e2:ClassTreeNode" />
+                      </presentation>
+                    </presentation>
+                  </presentation>
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/target" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="target" />
+                <item name="dir{file:///Users/domain80/IdeaProjects/secure1r/target}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitattributes" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitattributes" />
+                <item name=".gitattributes" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/HELP.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="HELP.md" />
+                <item name="HELP.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/mvnw" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="mvnw" />
+                <item name="mvnw" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/mvnw.cmd" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="mvnw.cmd" />
+                <item name="mvnw.cmd" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pom.xml" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/maven.svg" iconPlugin="com.intellij.java" isLeaf="true" text="pom.xml" />
+                <item name="pom.xml" type="d371aba8:MavenTreeStructureProvider$MavenPomFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Secure1RevisedApplication" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Settings Sync History" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4979893" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Dart Analysis" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.32962963" />
+      <window_info anchor="bottom" id="Debug" order="6" show_stripe_button="false" weight="0.32962963" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.32962963" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.33035713" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.32962963" left="0.4979893" right="0.43022487" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Settings Sync History" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30588624" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Dart Analysis" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.32962963" />
+      <window_info anchor="bottom" id="Debug" order="6" show_stripe_button="false" weight="0.32962963" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.32962963" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.33035713" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.32962963" left="0.30588624" right="0.43022487" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Debug</value>
+      <value>Notifications</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="356" y="143" width="827" height="680" key="#Run/Debug_Configuration_Templates" timestamp="1735832619075">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state x="356" y="143" width="827" height="680" key="#Run/Debug_Configuration_Templates/0.32.1512.950@0.32.1512.950" timestamp="1735832619075" />
+    <state x="356" y="143" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1735832631148">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state x="356" y="143" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1512.950@0.32.1512.950" timestamp="1735832631148" />
+    <state x="356" y="142" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.38.1512.889@0.38.1512.889" timestamp="1735652532124" />
+    <state x="559" y="197" key="#com.intellij.ide.util.MemberChooser" timestamp="1735728573253">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state x="559" y="197" key="#com.intellij.ide.util.MemberChooser/0.32.1512.950@0.32.1512.950" timestamp="1735728573253" />
+    <state x="493" y="264" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1735652520754">
+      <screen x="0" y="38" width="1512" height="889" />
+    </state>
+    <state x="493" y="264" key="#com.intellij.ide.util.TreeClassChooserDialog/0.38.1512.889@0.38.1512.889" timestamp="1735652520753" />
+    <state x="594" y="354" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1735832228489">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state x="594" y="354" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.32.1512.950@0.32.1512.950" timestamp="1735832228489" />
+    <state width="680" height="278" key="GridCell.Tab.0.bottom" timestamp="1735834782408">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state width="680" height="278" key="GridCell.Tab.0.bottom/0.32.1512.950@0.32.1512.950" timestamp="1735834782408" />
+    <state width="1318" height="237" key="GridCell.Tab.0.bottom/0.38.1512.889@0.38.1512.889" timestamp="1735652603084" />
+    <state width="680" height="278" key="GridCell.Tab.0.center" timestamp="1735834782407">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state width="680" height="278" key="GridCell.Tab.0.center/0.32.1512.950@0.32.1512.950" timestamp="1735834782407" />
+    <state width="1318" height="237" key="GridCell.Tab.0.center/0.38.1512.889@0.38.1512.889" timestamp="1735652603084" />
+    <state width="680" height="278" key="GridCell.Tab.0.left" timestamp="1735834782407">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state width="680" height="278" key="GridCell.Tab.0.left/0.32.1512.950@0.32.1512.950" timestamp="1735834782407" />
+    <state width="1318" height="237" key="GridCell.Tab.0.left/0.38.1512.889@0.38.1512.889" timestamp="1735652603083" />
+    <state width="680" height="278" key="GridCell.Tab.0.right" timestamp="1735834782408">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state width="680" height="278" key="GridCell.Tab.0.right/0.32.1512.950@0.32.1512.950" timestamp="1735834782408" />
+    <state width="1318" height="237" key="GridCell.Tab.0.right/0.38.1512.889@0.38.1512.889" timestamp="1735652603084" />
+    <state width="1430" height="268" key="GridCell.Tab.1.bottom" timestamp="1735740114062">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state width="1430" height="268" key="GridCell.Tab.1.bottom/0.32.1512.950@0.32.1512.950" timestamp="1735740114062" />
+    <state width="1430" height="268" key="GridCell.Tab.1.bottom/0.38.1512.889@0.38.1512.889" timestamp="1735705045321" />
+    <state width="1430" height="268" key="GridCell.Tab.1.center" timestamp="1735740114062">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state width="1430" height="268" key="GridCell.Tab.1.center/0.32.1512.950@0.32.1512.950" timestamp="1735740114062" />
+    <state width="1430" height="268" key="GridCell.Tab.1.center/0.38.1512.889@0.38.1512.889" timestamp="1735705045320" />
+    <state width="1430" height="268" key="GridCell.Tab.1.left" timestamp="1735740114062">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state width="1430" height="268" key="GridCell.Tab.1.left/0.32.1512.950@0.32.1512.950" timestamp="1735740114062" />
+    <state width="1430" height="268" key="GridCell.Tab.1.left/0.38.1512.889@0.38.1512.889" timestamp="1735705045320" />
+    <state width="1430" height="268" key="GridCell.Tab.1.right" timestamp="1735740114062">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state width="1430" height="268" key="GridCell.Tab.1.right/0.32.1512.950@0.32.1512.950" timestamp="1735740114062" />
+    <state width="1430" height="268" key="GridCell.Tab.1.right/0.38.1512.889@0.38.1512.889" timestamp="1735705045320" />
+    <state x="265" y="121" key="SettingsEditor" timestamp="1735831776311">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state x="265" y="121" key="SettingsEditor/0.32.1512.950@0.32.1512.950" timestamp="1735831776311" />
+    <state x="265" y="121" key="SettingsEditor/0.38.1512.889@0.38.1512.889" timestamp="1735652582055" />
+    <state x="520" y="148" width="647" height="556" key="find.popup" timestamp="1735834559998">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state x="520" y="148" width="647" height="556" key="find.popup/0.32.1512.950@0.32.1512.950" timestamp="1735834559998" />
+    <state x="356" y="152" width="800" height="715" key="new project wizard" timestamp="1735830901655">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state x="356" y="152" width="800" height="715" key="new project wizard/0.32.1512.950@0.32.1512.950" timestamp="1735830901655" />
+    <state x="421" y="233" width="699" height="711" key="search.everywhere.popup" timestamp="1735733849842">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state x="421" y="233" width="699" height="711" key="search.everywhere.popup/0.32.1512.950@0.32.1512.950" timestamp="1735733849842" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain80/secure1/config/UserDetailsManager.java" />
+    <entry file="jar:///opt/homebrew/Cellar/openjdk/23.0.1/libexec/openjdk.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="398" column="35" selection-start-line="398" selection-start-column="35" selection-end-line="398" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2.jar!/org/springframework/security/core/userdetails/UsernameNotFoundException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2.jar!/org/springframework/security/authentication/ProviderManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.4.2/spring-security-web-6.4.2.jar!/org/springframework/security/web/authentication/www/BasicAuthenticationFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/6.2.1/spring-web-6.2.1.jar!/org/springframework/web/filter/OncePerRequestFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.4.2/spring-security-web-6.4.2.jar!/org/springframework/security/web/FilterChainProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="255" selection-start-line="255" selection-end-line="255" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.4.2/spring-security-web-6.4.2.jar!/org/springframework/security/web/authentication/logout/LogoutFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2.jar!/org/springframework/security/authentication/AuthenticationProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2.jar!/org/springframework/security/core/userdetails/User.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="145" column="30" selection-start-line="145" selection-start-column="30" selection-end-line="145" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain80/secure1/model/User.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain80/secure1/filters/LoggingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain80/secure1/config/SecurityChainConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain80/secure1/controller/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain80/secure1/auth/CustomAuthProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1850#1851#0" expanded="true" />
+            <element signature="e#1877#1878#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain80/secure1/config/UserDetailsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="108" selection-start-line="21" selection-start-column="108" selection-end-line="21" selection-end-column="108" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1147#1148#0" expanded="true" />
+            <element signature="e#1203#1204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain80/secure1/util/InMemoryUserDetailsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain80/secure1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

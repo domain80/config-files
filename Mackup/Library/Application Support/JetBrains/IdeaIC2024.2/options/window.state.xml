@@ -1,8 +1,40 @@
 <application>
+  <component name="DimensionService">
+    <location key="find.popup.0.0.3024.1964@192dpi" x="1040" y="296" />
+    <size key="GridCell.Tab.0.left.0.0.3024.1964@192dpi" width="2892" height="556" />
+    <size key="GridCell.Tab.0.center.0.0.3024.1964@192dpi" width="2892" height="556" />
+    <size key="GridCell.Tab.0.right.0.0.3024.1964@192dpi" width="2892" height="556" />
+    <size key="GridCell.Tab.0.bottom.0.0.3024.1964@192dpi" width="2892" height="556" />
+    <size key="GridCell.Tab.1.left.0.0.3024.1964@192dpi" width="2860" height="536" />
+    <size key="GridCell.Tab.1.center.0.0.3024.1964@192dpi" width="2860" height="536" />
+    <size key="GridCell.Tab.1.right.0.0.3024.1964@192dpi" width="2860" height="536" />
+    <size key="GridCell.Tab.1.bottom.0.0.3024.1964@192dpi" width="2860" height="536" />
+    <size key="find.popup.0.0.3024.1964@192dpi" width="1294" height="1112" />
+  </component>
+  <component name="WindowManager">
+    <frame x="0" y="37" width="1512" height="945" fullScreen="true" />
+  </component>
   <component name="WindowStateApplicationService">
-    <state x="756" y="441" width="1048" height="650" key="WELCOME_SCREEN" timestamp="1734140797883">
-      <screen x="0" y="38" width="1512" height="885" />
+    <state width="572" height="135" key="ShowUsagesActions.dimensionServiceKey" timestamp="1735729516968">
+      <screen x="0" y="32" width="1512" height="950" />
     </state>
-    <state x="756" y="441" width="1048" height="650" key="WELCOME_SCREEN/0.38.1512.885" timestamp="1734140797883" />
+    <state width="572" height="135" key="ShowUsagesActions.dimensionServiceKey/0.32.1512.950" timestamp="1735729516968" />
+    <state width="639" height="135" key="ShowUsagesActions.dimensionServiceKey/0.38.1512.887" timestamp="1734535026934" />
+    <state width="568" height="111" key="ShowUsagesActions.dimensionServiceKey/0.38.1512.889" timestamp="1735703654665" />
+    <state width="846" height="135" key="ShowUsagesActions.dimensionServiceKey/0.38.1512.892" timestamp="1734483176691" />
+    <state x="756" y="482" width="1048" height="889" key="WELCOME_SCREEN" timestamp="1736040066147">
+      <screen x="0" y="38" width="1512" height="889" />
+    </state>
+    <state x="756" y="441" width="1048" height="650" key="WELCOME_SCREEN/0.38.1512.885" timestamp="1734220287356" />
+    <state x="756" y="481" width="1048" height="887" key="WELCOME_SCREEN/0.38.1512.887" timestamp="1735409705472" />
+    <state x="756" y="482" width="1048" height="889" key="WELCOME_SCREEN/0.38.1512.889" timestamp="1736040066147" />
+    <state x="528" y="427" width="486" height="219" key="ide.config.custom.settings" timestamp="1735835175813">
+      <screen x="0" y="38" width="1512" height="889" />
+    </state>
+    <state x="528" y="427" width="486" height="219" key="ide.config.custom.settings/0.38.1512.889" timestamp="1735835175813" />
+    <state x="356" y="145" width="800" height="674" key="new project wizard" timestamp="1735834995266">
+      <screen x="0" y="38" width="1512" height="889" />
+    </state>
+    <state x="356" y="145" width="800" height="674" key="new project wizard/0.38.1512.889" timestamp="1735834995266" />
   </component>
 </application>

@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://www.thymeleaf.org" />
+    <ignored-resource url="http://www.thymeleaf.org/thymeleaf-extras-springsecurity6" />
+    <ignored-resource url="http://www.ultraq.net.nz/thymeleaf/layout" />
+  </component>
+</application>
