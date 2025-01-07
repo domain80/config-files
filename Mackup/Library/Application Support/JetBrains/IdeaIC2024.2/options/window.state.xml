@@ -15,6 +15,10 @@
     <frame x="0" y="37" width="1512" height="945" fullScreen="true" />
   </component>
   <component name="WindowStateApplicationService">
+    <state x="356" y="182" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1736256061615">
+      <screen x="0" y="38" width="1512" height="889" />
+    </state>
+    <state x="356" y="182" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.38.1512.889" timestamp="1736256061615" />
     <state width="572" height="135" key="ShowUsagesActions.dimensionServiceKey" timestamp="1735729516968">
       <screen x="0" y="32" width="1512" height="950" />
     </state>
@@ -22,12 +26,12 @@
     <state width="639" height="135" key="ShowUsagesActions.dimensionServiceKey/0.38.1512.887" timestamp="1734535026934" />
     <state width="568" height="111" key="ShowUsagesActions.dimensionServiceKey/0.38.1512.889" timestamp="1735703654665" />
     <state width="846" height="135" key="ShowUsagesActions.dimensionServiceKey/0.38.1512.892" timestamp="1734483176691" />
-    <state x="756" y="482" width="1048" height="889" key="WELCOME_SCREEN" timestamp="1736040066147">
+    <state x="756" y="482" width="1048" height="889" key="WELCOME_SCREEN" timestamp="1736256433470">
       <screen x="0" y="38" width="1512" height="889" />
     </state>
     <state x="756" y="441" width="1048" height="650" key="WELCOME_SCREEN/0.38.1512.885" timestamp="1734220287356" />
     <state x="756" y="481" width="1048" height="887" key="WELCOME_SCREEN/0.38.1512.887" timestamp="1735409705472" />
-    <state x="756" y="482" width="1048" height="889" key="WELCOME_SCREEN/0.38.1512.889" timestamp="1736040066147" />
+    <state x="756" y="482" width="1048" height="889" key="WELCOME_SCREEN/0.38.1512.889" timestamp="1736256433470" />
     <state x="528" y="427" width="486" height="219" key="ide.config.custom.settings" timestamp="1735835175813">
       <screen x="0" y="38" width="1512" height="889" />
     </state>
