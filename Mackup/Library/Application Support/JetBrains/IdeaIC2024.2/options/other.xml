@@ -59,7 +59,8 @@
     "project.wizard.group": "NPW.simple-project.Java",
     "promo.framework.suggestion.dismissed.spring.boot": "true",
     "promo.ignore.ultimate.edition": "true",
-    "registry.to.advanced.settings.migration.build": "IC-242.24807.4"
+    "registry.to.advanced.settings.migration.build": "IC-242.24807.4",
+    "toolwindow.showToolWindowsNames.ts": "2025-01-07T13:45:58.60658"
   },
   "keyToStringList": {
     "fileTypeDetectors": [

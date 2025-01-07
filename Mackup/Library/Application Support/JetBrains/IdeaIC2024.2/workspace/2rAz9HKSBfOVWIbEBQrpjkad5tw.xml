@@ -35,7 +35,7 @@
           <select />
           <presentation>
             <attributes />
-            <data iconPath="extratci/icons/custom/toolWindowProject.svg" iconPlugin="lermitage.intellij.extratci" isLeaf="false" text="oauth2" />
+            <data iconPath="icons/toolwindows/toolWindowProject.svg" iconPlugin="com.mallowigi" isLeaf="false" text="oauth2" />
             <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
             <presentation>
               <attributes>
@@ -43,7 +43,7 @@
                   <entry key="filePath" value="$PROJECT_DIR$" />
                 </map>
               </attributes>
-              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="oauth2" />
+              <data iconPath="icons/nodes/Module.svg" iconPlugin="com.mallowigi" isLeaf="false" text="oauth2" />
               <item name="dir{file:///Users/domain80/IdeaProjects/oauth2}" type="462c0819:PsiDirectoryNode" />
               <presentation>
                 <attributes>
@@ -51,7 +51,7 @@
                     <entry key="filePath" value="$PROJECT_DIR$/.idea" />
                   </map>
                 </attributes>
-                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <data isLeaf="false" text=".idea" />
                 <item name="dir{file:///Users/domain80/IdeaProjects/oauth2/.idea}" type="462c0819:PsiDirectoryNode" />
               </presentation>
               <presentation>
@@ -60,7 +60,7 @@
                     <entry key="filePath" value="$PROJECT_DIR$/.mvn" />
                   </map>
                 </attributes>
-                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".mvn" />
+                <data isLeaf="false" text=".mvn" />
                 <item name="dir{file:///Users/domain80/IdeaProjects/oauth2/.mvn}" type="462c0819:PsiDirectoryNode" />
               </presentation>
               <presentation>
@@ -69,7 +69,7 @@
                     <entry key="filePath" value="$PROJECT_DIR$/src" />
                   </map>
                 </attributes>
-                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <data isLeaf="false" text="src" />
                 <item name="dir{file:///Users/domain80/IdeaProjects/oauth2/src}" type="462c0819:PsiDirectoryNode" />
               </presentation>
               <presentation>
@@ -78,7 +78,7 @@
                     <entry key="filePath" value="$PROJECT_DIR$/.gitattributes" />
                   </map>
                 </attributes>
-                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitattributes" />
+                <data isLeaf="true" text=".gitattributes" />
                 <item name=".gitattributes" type="ab9368bb:PsiFileNode" />
               </presentation>
               <presentation>
@@ -87,7 +87,7 @@
                     <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
                   </map>
                 </attributes>
-                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <data isLeaf="true" text=".gitignore" />
                 <item name=".gitignore" type="ab9368bb:PsiFileNode" />
               </presentation>
               <presentation>
@@ -96,7 +96,7 @@
                     <entry key="filePath" value="$PROJECT_DIR$/HELP.md" />
                   </map>
                 </attributes>
-                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="HELP.md" />
+                <data isLeaf="true" text="HELP.md" />
                 <item name="HELP.md" type="ab9368bb:PsiFileNode" />
               </presentation>
               <presentation>
@@ -105,7 +105,7 @@
                     <entry key="filePath" value="$PROJECT_DIR$/mvnw" />
                   </map>
                 </attributes>
-                <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="mvnw" />
+                <data iconPath="icons/nodes/console.svg" iconPlugin="com.mallowigi" isLeaf="true" text="mvnw" />
                 <item name="mvnw" type="ab9368bb:PsiFileNode" />
               </presentation>
               <presentation>
@@ -114,7 +114,7 @@
                     <entry key="filePath" value="$PROJECT_DIR$/mvnw.cmd" />
                   </map>
                 </attributes>
-                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="mvnw.cmd" />
+                <data isLeaf="true" text="mvnw.cmd" />
                 <item name="mvnw.cmd" type="ab9368bb:PsiFileNode" />
               </presentation>
               <presentation>
@@ -123,18 +123,18 @@
                     <entry key="filePath" value="$PROJECT_DIR$/pom.xml" />
                   </map>
                 </attributes>
-                <data iconPath="icons/expui/maven.svg" iconPlugin="com.intellij.java" isLeaf="true" text="pom.xml" />
+                <data isLeaf="true" text="pom.xml" />
                 <item name="pom.xml" type="d371aba8:MavenTreeStructureProvider$MavenPomFileNode" />
               </presentation>
             </presentation>
             <presentation>
               <attributes />
-              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <data iconPath="icons/nodes/ppLib.svg" iconPlugin="com.mallowigi" isLeaf="false" text="External Libraries" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </presentation>
             <presentation>
               <attributes />
-              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <data iconPath="icons/scope/scratches.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Scratches and Consoles" />
               <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
             </presentation>
           </presentation>
@@ -145,7 +145,7 @@
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19609788" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15244709" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -153,16 +153,22 @@
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Services" order="4" />
-      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights left="0.19609788" />
+      <unified_weights left="0.15244709" />
     </layoutV2>
     <recentWindows>
       <value>Project</value>
     </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="265" y="151" key="SettingsEditor" timestamp="1736257576478">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state x="265" y="151" key="SettingsEditor/0.32.1512.950@0.32.1512.950" timestamp="1736257576478" />
   </component>
 </project>

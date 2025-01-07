@@ -180,8 +180,8 @@
         </entry>
         <entry key="$USER_HOME$/IdeaProjects/oauth2">
           <value>
-            <RecentProjectMetaInfo frameTitle="oauth2" projectWorkspaceId="2rAz9HKSBfOVWIbEBQrpjkad5tw">
-              <option name="activationTimestamp" value="1736040055036" />
+            <RecentProjectMetaInfo frameTitle="oauth2" opened="true" projectWorkspaceId="2rAz9HKSBfOVWIbEBQrpjkad5tw">
+              <option name="activationTimestamp" value="1736257532592" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-242.24807.4" />
               <option name="buildTimestamp" value="1732592940000" />
@@ -190,7 +190,7 @@
               </option>
               <frame x="0" y="37" width="1512" height="945" fullScreen="true" />
               <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1736016514618" />
+              <option name="projectOpenTimestamp" value="1736256459040" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

@@ -267,6 +267,9 @@
     <e n="Maven.UpdateFoldersForProject">
       <i c="1" l="1735339398566" />
     </e>
+    <e n="MaximizeToolWindow">
+      <i c="4" l="1736256676240" />
+    </e>
     <e n="MethodDown">
       <i c="6" l="1734913996584" />
     </e>
@@ -292,7 +295,7 @@
       <i c="2" d="1" l="1735500822360" k="1735500644932" />
     </e>
     <e n="NewFile">
-      <i c="16" l="1735953435349" />
+      <i c="17" l="1736256616362" />
     </e>
     <e n="NewHtmlFile">
       <i c="1" l="1734488373401" />
@@ -379,7 +382,7 @@
       <i c="6" l="1735523469471" />
     </e>
     <e n="SettingsEntryPoint">
-      <i c="22" l="1735834833090" />
+      <i c="24" l="1736256499541" />
     </e>
     <e n="SettingsSyncStatusAction">
       <i c="1" l="1735511569395" />
@@ -392,6 +395,9 @@
     </e>
     <e n="ShowIntentionActions">
       <i c="261" l="1735953159310" />
+    </e>
+    <e n="ShowNavBar">
+      <i c="1" l="1736256679011" />
     </e>
     <e n="ShowProjectStructureSettings">
       <i c="1" l="1734914504911" />
@@ -428,6 +434,9 @@
     </e>
     <e n="Tree-selectNextExtendSelection">
       <i c="2" l="1735164619266" />
+    </e>
+    <e n="Tree-selectParent">
+      <i c="1" l="1736256720394" />
     </e>
     <e n="Tree-selectPrevious">
       <i c="106" l="1735953024006" />
