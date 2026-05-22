@@ -4,6 +4,7 @@
 # Tracked configs
 !fish/
 !nvim/
+!wezterm/
 !.gitignore
 
 # Machine-specific fish state (not portable)

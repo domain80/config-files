@@ -1,6 +1,6 @@
 if status is-interactive
 # Commands to run in interactive sessions can go here
-rbenv init - fish | source
+# rbenv init - fish | source
 end
 
 set -U fish_greeting ""
@@ -27,6 +27,7 @@ end
 abbr --set-cursor=@\$ -a tn cd ~/dev/terydin@\$
 abbr --set-cursor=@\$ -a pb cd ~/Documents/obsidian/Playbook2026/@\$
 abbr --set-cursor=@\$ -a me cd ~/dev/me@\$
+abbr --set-cursor=@\$ -a me cd ~/dev/bitovi@\$
 abbr --set-cursor=@\$ -a ping cd ~/dev/me/ping@\$
 # abbr end
 
