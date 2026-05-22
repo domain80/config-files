@@ -1,0 +1,10 @@
+# Ignore everything by default — whitelist only what we want
+/*
+
+# Tracked configs
+!fish/
+!nvim/
+!.gitignore
+
+# Machine-specific fish state (not portable)
+fish/fish_variables
