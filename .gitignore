@@ -7,5 +7,10 @@
 !wezterm/
 !.gitignore
 
+# iTerm2 settings — only the plist (skip the AppSupport symlink + sockets dir)
+!iterm2/
+iterm2/*
+!iterm2/com.googlecode.iterm2.plist
+
 # Machine-specific fish state (not portable)
 fish/fish_variables
