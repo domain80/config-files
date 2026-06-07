@@ -12,8 +12,9 @@
 iterm2/*
 !iterm2/com.googlecode.iterm2.plist
 
-# Auto-commit helper script
+# Auto-commit helper script + its launchd agent
 !scripts/
+!launchd/
 
 # Machine-specific fish state (not portable)
 fish/fish_variables

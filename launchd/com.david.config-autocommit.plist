@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.david.config-autocommit</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/david/.config/scripts/config-autocommit.sh</string>
+    </array>
+
+    <!-- Instant: launchd watches these at the kernel level (no resident process).
+         Directory watches catch atomic saves (rename), which iTerm2 and most editors use. -->
+    <key>WatchPaths</key>
+    <array>
+        <string>/Users/david/.config/iterm2</string>
+        <string>/Users/david/.config/wezterm</string>
+        <string>/Users/david/.config/nvim</string>
+        <string>/Users/david/.config/iterm2/com.googlecode.iterm2.plist</string>
+        <string>/Users/david/.config/wezterm/wezterm.lua</string>
+    </array>
+
+    <!-- Safety net: catches in-place edits WatchPaths might miss. 30 min; just a brief spawn. -->
+    <key>StartInterval</key>
+    <integer>1800</integer>
+
+    <key>RunAtLoad</key>
+    <false/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/david/Library/Logs/config-autocommit.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/david/Library/Logs/config-autocommit.err.log</string>
+</dict>
+</plist>
