@@ -32,7 +32,8 @@ while :; do
   fi
 
   ts="$(date '+%Y-%m-%d %H:%M:%S')"
-  "$GIT" commit -q -m "auto: config sync $ts" >>"$LOG" 2>&1
+  host="$(/bin/hostname -s)"
+  "$GIT" commit -q -m "auto: config sync ($host) $ts" >>"$LOG" 2>&1
 
   # Push via the alias remote — non-interactive, no ssh-agent required.
   # A failed push (offline) is non-fatal; the next run pushes everything pending.
