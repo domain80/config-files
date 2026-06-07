@@ -34,7 +34,8 @@ echo "    • write + load: $RENDERED"
 echo
 
 # --- consent -----------------------------------------------------------------
-read -r -p "Proceed? [y/N] " reply </dev/tty
+# Read from the controlling terminal. EOF (Ctrl-D / non-interactive) -> empty -> abort.
+if ! read -r -p "Proceed? [y/N] " reply </dev/tty; then reply=""; fi
 case "$reply" in
   [yY]|[yY][eE][sS]) ;;
   *) echo "Aborted. No changes made."; exit 0 ;;
