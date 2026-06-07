@@ -47,7 +47,10 @@ config.font = wezterm.font("JetBrainsMono Nerd Font")
 config.font_size = 16.0
 config.line_height = 1.4
 
-config.enable_csi_u_key_encoding = false
-config.enable_kitty_keyboard = false
+-- Enable the Kitty keyboard protocol so modified keys (e.g. Shift+Enter for a
+-- newline) work in TUIs like Claude Code. Negotiated at session start, so open a
+-- NEW window after changing this. (Does NOT affect the Up/Down-in-wrapped-prompt
+-- bug — that's a Claude Code regression, #63670, not a terminal setting.)
+config.enable_kitty_keyboard = true
 
 return config
