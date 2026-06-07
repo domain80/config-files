@@ -5,7 +5,7 @@
 set -u
 export PATH="/usr/bin:/bin:/usr/sbin:/sbin"
 
-REPO="$HOME/.config"
+REPO="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"   # repo root = parent of scripts/
 GIT="/usr/bin/git"
 LOG="$HOME/Library/Logs/config-autocommit.log"   # outside the repo, never committed
 LOCK="/tmp/config-autocommit.lock"
