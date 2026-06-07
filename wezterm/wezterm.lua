@@ -23,11 +23,20 @@ wezterm.on("window-config-reloaded", function(window, pane)
   end
 end)
 
-if wezterm.gui then
-  config.color_scheme = scheme_for_appearance(wezterm.gui.get_appearance())
-else
-  config.color_scheme = "GitHub Dark"
-end
+local appearance = (wezterm.gui and wezterm.gui.get_appearance()) or "Dark"
+local is_dark = appearance:find("Dark") ~= nil
+
+config.color_scheme = scheme_for_appearance(appearance)
+
+-- Export COLORFGBG so apps that read it pick the right light/dark variant.
+-- Claude Code's `auto` theme reads COLORFGBG's last field: 0-6 or 8 => dark,
+-- 7 or 9-15 => light. WezTerm doesn't set this by default (iTerm2 does), which
+-- is why `auto` never matched here. Applies to NEWLY spawned panes/sessions;
+-- env vars can't change for an already-running process, so flip then open a
+-- fresh tab (or relaunch claude) to get the matching theme.
+config.set_environment_variables = {
+  COLORFGBG = is_dark and "15;0" or "0;15",
+}
 
 -- Window size (~16:10 aspect ratio)
 config.initial_cols = 135
@@ -37,5 +46,8 @@ config.initial_rows = 24
 config.font = wezterm.font("JetBrainsMono Nerd Font")
 config.font_size = 16.0
 config.line_height = 1.4
+
+config.enable_csi_u_key_encoding = false
+config.enable_kitty_keyboard = false
 
 return config
