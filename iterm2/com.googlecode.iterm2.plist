@@ -691,6 +691,8 @@
 	<false/>
 	<key>HotkeyMigratedFromSingleToMulti</key>
 	<true/>
+	<key>MaxVertically</key>
+	<true/>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
