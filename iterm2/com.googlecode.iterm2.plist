@@ -691,8 +691,6 @@
 	<false/>
 	<key>HotkeyMigratedFromSingleToMulti</key>
 	<true/>
-	<key>MaxVertically</key>
-	<true/>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -1910,7 +1908,5 @@
 	<false/>
 	<key>VisualIndicatorForEsc</key>
 	<false/>
-	<key>WindowPlacement</key>
-	<integer>2</integer>
 </dict>
 </plist>
