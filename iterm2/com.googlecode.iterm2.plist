@@ -1908,5 +1908,7 @@
 	<false/>
 	<key>VisualIndicatorForEsc</key>
 	<false/>
+	<key>WindowPlacement</key>
+	<integer>2</integer>
 </dict>
 </plist>
