@@ -1,0 +1,151 @@
+// Zed keymap
+//
+// For information on binding keys, see the Zed
+// documentation: https://zed.dev/docs/key-bindings
+//
+// To see the default key bindings run `zed: open default keymap`
+// from the command palette.
+[
+  {
+    "context": "Editor && vim_mode == normal || vim_mode == visual",
+    "bindings": {
+      // General Mappings
+      "space n": "workspace::NewFile",
+      "space shift-r": "workspace::RenameFile",
+      "space c": "pane::CloseActiveItem",
+      "ctrl-s": "workspace::Save",
+      "ctrl-q": "zed::Quit",
+
+      // Buffer Navigation
+      "] b": "pane::ActivateNextItem",
+      "[ b": "pane::ActivatePreviousItem",
+      "space b b": "tab_switcher::Toggle",
+      "space b c": "pane::CloseInactiveItems",
+      "space b shift-c": "pane::CloseAllItems",
+      "space b d": "pane::CloseActiveItem",
+      "space b p": "pane::ActivatePrevItem",
+
+      // Commenting
+      "space /": "editor::ToggleComments",
+
+      // File Explorer (Neo-Tree equivalent)
+      "space e": "project_panel::ToggleFocus",
+      "space o": "project_panel::ToggleFocus",
+
+      // Dashboard/Home
+      "space h": "welcome::Toggle",
+
+      // Session Management (Projects in Zed)
+      "space shift-s s": "workspace::SaveAll",
+      "space shift-s f": "projects::OpenRecent",
+
+      // Package Management (Extensions in Zed)
+      "space p i": "zed::Extensions",
+      "space p s": "zed::Extensions",
+
+      // LSP Mappings
+      "space l i": "diagnostics::Deploy",
+      "space l f": "editor::Format",
+      "g l": "editor::Hover",
+      "space l d": "editor::Hover",
+      "space l shift-d": "diagnostics::Deploy",
+      "space l a": "editor::ToggleCodeActions",
+      "g r a": "editor::ToggleCodeActions",
+      "space l h": "editor::ShowSignatureHelp",
+      "space l r": "editor::Rename",
+      "g r n": "editor::Rename",
+      "space l s": "outline::Toggle",
+      "space l shift-s": "outline::Toggle",
+      "] d": "editor::GoToDiagnostic",
+      "[ d": "editor::GoToPrevDiagnostic",
+      "g shift-d": "editor::GoToTypeDefinition",
+      "g y": "editor::GoToTypeDefinition",
+      "g d": "editor::GoToDefinition",
+      "g r i": "editor::FindAllReferences",
+      "g r r": "editor::FindAllReferences",
+      "space l shift-r": "editor::FindAllReferences",
+
+      // Debugger Mappings
+      "space d c": "debugger::Continue",
+      "space d p": "debugger::Pause",
+      "space d r": "debugger::Restart",
+      "space d q": "debugger::Stop",
+      "space d b": "debugger::ToggleBreakpoint",
+      "space d shift-c": "debugger::ToggleConditionalBreakpoint",
+      "space d o": "debugger::StepOver",
+      "space d i": "debugger::StepIn",
+      "space d shift-o": "debugger::StepOut",
+
+      // Picker/Fuzzy Finder Mappings
+      "space f enter": "pane::DeploySearch",
+      "space f b": "tab_switcher::Toggle",
+      "space f c": "pane::DeploySearch",
+      "space f shift-c": "command_palette::Toggle",
+      "space f f": "file_finder::Toggle",
+      "space f shift-f": "file_finder::Toggle",
+      "space f h": "assistant::DeployHistory",
+      "space f k": "zed::OpenKeymap",
+      "space f n": "notification_panel::ToggleFocus",
+      "space f o": "recent_projects::OpenRecent",
+      "space f p": "projects::OpenRecent",
+      "space f s": "file_finder::Toggle",
+      "space f w": "pane::DeploySearch",
+      "space f shift-w": "pane::DeploySearch",
+
+      // Git Mappings
+      "space g b": "branches::OpenRecent",
+      "space g c": "editor::ToggleGitBlame",
+      "space g t": "vcs_menu::Toggle",
+      "space g o": "editor::OpenUrl",
+
+      // Terminal Mappings
+      "space t f": "terminal_panel::ToggleFocus",
+      "space t h": ["workspace::NewTerminal", { "split": "horizontal" }],
+      "space t v": ["workspace::NewTerminal", { "split": "vertical" }],
+      "space t l": "terminal_panel::ToggleFocus",
+
+      // UI/UX Toggles
+      "space u a": "editor::ToggleAutoSave",
+      "space u c": "editor::ToggleCodeActions",
+      "space u d": "diagnostics::Deploy",
+      "space u shift-d": "notification_panel::ToggleFocus",
+      "space u f": "editor::ToggleAutoFormat",
+      "space u h": "editor::ToggleInlayHints",
+      "space u l": "workspace::ToggleLeftDock",
+      "space u n": "editor::ToggleLineNumbers",
+      "space u s": "editor::ToggleSpellcheck",
+      "space u w": "editor::ToggleSoftWrap",
+      "space u z": "workspace::ToggleZoom",
+    },
+  },
+  {
+    "context": "Workspace",
+    "bindings": {
+      // Window Navigation
+      "ctrl-k": "pane::ActivateItemInDirection::Up",
+      "ctrl-j": "pane::ActivateItemInDirection::Down",
+      "ctrl-h": "pane::ActivateItemInDirection::Left",
+      "ctrl-l": "pane::ActivateItemInDirection::Right",
+
+      // Splits
+      "\\": "pane::SplitHorizontal",
+      "|": "pane::SplitVertical",
+
+      // Tab navigation
+      "] t": "workspace::ActivateNextPane",
+      "[ t": "workspace::ActivatePrevPane",
+    },
+  },
+  {
+    "context": "Terminal",
+    "bindings": {
+      "ctrl-'": "workspace::ToggleBottomDock",
+    },
+  },
+  {
+    "context": "ProjectPanel && !editing",
+    "bindings": {
+      "space e": "workspace::ToggleLeftDock",
+    },
+  },
+]
