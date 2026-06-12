@@ -50,6 +50,15 @@
     }
   },
 
+  // ── Tab / page navigation (works in any vim mode) ───────────────────────
+  {
+    "context": "Editor",
+    "bindings": {
+      "alt-n": "pane::ActivateNextItem",         // opt+n -> next page/tab
+      "alt-p": "pane::ActivatePreviousItem"      // opt+p -> previous page/tab
+    }
+  },
+
   // ── Insert mode ─────────────────────────────────────────────────────────
   {
     "context": "vim_mode == insert",
