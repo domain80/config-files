@@ -23,6 +23,7 @@
   },
   "proxy": "",
   "edit_predictions": {
+    "allow_data_collection": "no",
     "mode": "subtle"
   },
   "autosave": "on_window_change",
