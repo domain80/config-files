@@ -50,6 +50,18 @@ defaults write "$ITERM_DOMAIN" LoadPrefsFromCustomFolder -bool true
 echo "✓ iTerm2 pointed at $ITERM_FOLDER"
 
 # --- 2. install the auto-commit agent ----------------------------------------
+# The watcher (config-watch.sh) needs fswatch for recursive FSEvents watching.
+if ! command -v fswatch >/dev/null 2>&1; then
+  if command -v brew >/dev/null 2>&1; then
+    echo "Installing fswatch (required by the watcher)…"
+    brew install fswatch
+  else
+    echo "error: Homebrew not found; install fswatch manually: brew install fswatch" >&2
+    exit 1
+  fi
+fi
+echo "✓ fswatch present"
+
 mkdir -p "$LA_DIR" "$HOME/Library/Logs"
 rm -f "$RENDERED"
 sed -e "s|__REPO__|$REPO|g" -e "s|__HOME__|$HOME|g" "$TEMPLATE" > "$RENDERED"

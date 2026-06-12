@@ -8,29 +8,20 @@
     <key>Label</key>
     <string>com.david.config-autocommit</string>
 
+    <!-- Long-lived recursive FSEvents watcher (config-watch.sh runs fswatch).
+         Any change anywhere under the repo triggers an instant commit+push.
+         Replaces WatchPaths, which launchd cannot apply recursively. -->
     <key>ProgramArguments</key>
     <array>
         <string>/bin/bash</string>
-        <string>__REPO__/scripts/config-autocommit.sh</string>
+        <string>__REPO__/scripts/config-watch.sh</string>
     </array>
 
-    <!-- Instant: launchd watches these at the kernel level (no resident process).
-         Directory watches catch atomic saves (rename), which iTerm2 and most editors use. -->
-    <key>WatchPaths</key>
-    <array>
-        <string>__REPO__/iterm2</string>
-        <string>__REPO__/wezterm</string>
-        <string>__REPO__/nvim</string>
-        <string>__REPO__/iterm2/com.googlecode.iterm2.plist</string>
-        <string>__REPO__/wezterm/wezterm.lua</string>
-    </array>
-
-    <!-- Safety net: catches in-place edits WatchPaths might miss. 30 min; just a brief spawn. -->
-    <key>StartInterval</key>
-    <integer>1800</integer>
-
+    <!-- Start at login and keep the watcher alive; relaunch if it ever exits. -->
     <key>RunAtLoad</key>
-    <false/>
+    <true/>
+    <key>KeepAlive</key>
+    <true/>
 
     <key>StandardOutPath</key>
     <string>__HOME__/Library/Logs/config-autocommit.out.log</string>
