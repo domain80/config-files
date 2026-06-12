@@ -25,7 +25,8 @@
     "context": "vim_mode == normal",
     "bindings": {
       // Buffers / editors
-      "space w": "pane::CloseActiveItem",        // close current editor
+      "space w": "workspace::Save",              // save  (AstroNvim <leader>w)
+      "space q": "pane::CloseActiveItem",        // close buffer/window (AstroNvim <leader>q)
       "space shift-w": "pane::CloseAllItems",    // close all editors (pane)
       "] b": "pane::ActivateNextItem",           // next editor tab
       "[ b": "pane::ActivatePreviousItem",       // prev editor tab
