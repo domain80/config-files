@@ -1,0 +1,51 @@
+// Zed keymap — ported from Neovim config (~/.config/nvim).
+//
+// Motions mirror lua/plugins/mappings.lua (H/^/L/$ swaps) exactly.
+// Leader actions mirror vscode-init.lua, translated from VSCode commands
+// to Zed-native actions. Leader = <space>, matching vim.g.mapleader = " ".
+//
+// Keep in sync with the nvim config when motions/leader maps change there.
+[
+  // ── Motions (n / v / o via VimControl) ──────────────────────────────────
+  // Swap screen-position motions with line-position motions:
+  //   H -> first non-blank char        ^ -> top of screen
+  //   L -> end of line                 $ -> bottom of screen
+  {
+    "context": "VimControl && !menu",
+    "bindings": {
+      "shift-h": "vim::FirstNonWhitespace",
+      "^": "vim::WindowTop",
+      "shift-l": "vim::EndOfLine",
+      "$": "vim::WindowBottom"
+    }
+  },
+
+  // ── Leader actions (normal mode) ────────────────────────────────────────
+  {
+    "context": "vim_mode == normal",
+    "bindings": {
+      // Buffers / editors
+      "space w": "pane::CloseActiveItem",        // close current editor
+      "space shift-w": "pane::CloseAllItems",    // close all editors (pane)
+      "] b": "pane::ActivateNextItem",           // next editor tab
+      "[ b": "pane::ActivatePreviousItem",       // prev editor tab
+
+      // Finding
+      "space f": "file_finder::Toggle",          // find files
+      "space f f": "file_finder::Toggle",        // find files
+      "space f g": "project_search::ToggleFocus", // search in files (grep)
+      "space f b": "tab_switcher::Toggle",       // find open buffers
+      "space f c": "command_palette::Toggle",    // find commands
+
+      // Sidebar / panels
+      "space e": "workspace::ToggleLeftDock",    // toggle sidebar
+      "space t": "terminal_panel::Toggle",       // toggle terminal
+      "space g s": "git_panel::ToggleFocus",     // open git / SCM
+
+      // LSP
+      "space c a": "editor::ToggleCodeActions",  // code actions
+      "space r n": "editor::Rename",             // rename symbol
+      "space l r": "editor::FindAllReferences"   // list references
+    }
+  }
+]

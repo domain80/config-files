@@ -5,6 +5,7 @@
 !fish/
 !nvim/
 !wezterm/
+!zed/
 !.gitignore
 
 # iTerm2 settings — only the plist (skip the AppSupport symlink + sockets dir)
