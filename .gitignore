@@ -20,4 +20,6 @@ iterm2/*
 # Machine-specific fish state (not portable)
 fish/fish_variables
 
-# (watcher smoke-test — fswatch auto-commit)
+# Zed prompt-library LMDB store — binary + a constantly-churning lock file.
+# Can't be merged across machines; would generate endless noise commits.
+zed/prompts/**/*.mdb
