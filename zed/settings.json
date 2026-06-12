@@ -11,49 +11,48 @@
   "buffer_font_family": "JetBrainsMono Nerd Font",
   "terminal": {
     "font_size": 16.0,
-    "font_family": "JetBrainsMono Nerd Font"
+    "font_family": "JetBrainsMono Nerd Font",
   },
   "agent": {
-    "sidebar_side": "right",
     "dock": "right",
     "favorite_models": [],
-    "model_parameters": []
+    "model_parameters": [],
   },
   "project_panel": {
-    "dock": "left"
+    "dock": "left",
   },
   "proxy": "",
   "edit_predictions": {
     "allow_data_collection": "no",
-    "mode": "subtle"
+    "mode": "subtle",
   },
   "autosave": "on_window_change",
   "vim": {
-    "toggle_relative_line_numbers": true
+    "toggle_relative_line_numbers": true,
   },
   "icon_theme": {
     "mode": "system",
     "light": "Zed (Default)",
-    "dark": "Catppuccin Mocha"
+    "dark": "Catppuccin Mocha",
   },
   "telemetry": {
     "diagnostics": false,
-    "metrics": false
+    "metrics": false,
   },
   "session": {
-    "trust_all_worktrees": false
+    "trust_all_worktrees": false,
   },
   "vim_mode": true,
   "agent_servers": {
     "github-copilot-cli": {
-      "type": "registry"
+      "type": "registry",
     },
     "claude-acp": {
       "default_config_options": {
-        "model": "opus[1m]"
+        "model": "opus[1m]",
       },
-      "type": "registry"
-    }
+      "type": "registry",
+    },
   },
   "ui_font_size": 16,
   "buffer_font_size": 15,
