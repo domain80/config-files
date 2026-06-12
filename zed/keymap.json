@@ -48,5 +48,13 @@
       "space r n": "editor::Rename",             // rename symbol
       "space l r": "editor::FindAllReferences"   // list references
     }
+  },
+
+  // ── Insert mode ─────────────────────────────────────────────────────────
+  {
+    "context": "vim_mode == insert",
+    "bindings": {
+      "j k": "vim::NormalBefore"                 // jk -> escape to normal mode
+    }
   }
 ]
