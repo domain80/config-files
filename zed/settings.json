@@ -8,7 +8,7 @@
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
   "git_panel": {
-    "tree_view": true,
+    "tree_view": false,
     "dock": "left"
   },
   "buffer_line_height": "comfortable",
