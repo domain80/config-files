@@ -1912,5 +1912,7 @@
 	<false/>
 	<key>WindowPlacement</key>
 	<integer>2</integer>
+	<key>findMode_iTerm</key>
+	<integer>0</integer>
 </dict>
 </plist>
