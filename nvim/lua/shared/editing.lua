@@ -53,7 +53,18 @@ end
 ---   2. Register every keymap in M.keymaps via `vim.keymap.set`,
 ---      passing its `desc` and sensible opts ({ noremap = true, silent = true }).
 function M.apply()
-  -- your code here
+  -- 1. Engine-level options.
+  for key, value in pairs(M.options) do
+    vim.opt[key] = value
+  end
+
+  -- 2. Keymaps. `vim.keymap.set` accepts the modes list directly, so no inner
+  --    loop is needed. `noremap = true` is what keeps the H↔^ / L↔$ swaps from
+  --    recursing into each other; `silent = true` suppresses command echo.
+  for _, entry in ipairs(M.keymaps) do
+    local modes, lhs, rhs, desc = entry[1], entry[2], entry[3], entry[4]
+    vim.keymap.set(modes, lhs, rhs, { noremap = true, silent = true, desc = desc })
+  end
 end
 
 return M
