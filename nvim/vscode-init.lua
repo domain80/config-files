@@ -20,35 +20,50 @@ package.path = config .. "/lua/?.lua;" .. config .. "/lua/?/init.lua;" .. packag
 -- ── Shared editing layer (single source of truth) ────────────────────────────
 require("shared.editing").apply()
 
--- ── VSCode-command bindings (these are inherently VSCode-side, not from nvim) ──
+-- ── Insert-mode escape ───────────────────────────────────────────────────────
+-- Replicates better-escape.nvim (jj / jk → <Esc>), which is a plugin in the full
+-- config and therefore not loaded here. VSCode-only; the real nvim uses the plugin.
+local esc_opts = { noremap = true, silent = true }
+vim.keymap.set("i", "jk", "<Esc>", esc_opts)
+vim.keymap.set("i", "jj", "<Esc>", esc_opts)
+
+-- ── <leader> bindings ─────────────────────────────────────────────────────────
+-- Inherently VSCode-side (they call VSCode commands with no nvim equivalent), so
+-- they can't live in shared/editing.lua. Each mirrors the SAME AstroNvim default
+-- it stands in for — see ~/.local/share/nvim/lazy/AstroNvim/.../_astrocore_mappings.lua.
 local vscode = require("vscode")
-local opts = { noremap = true, silent = true }
-local function cmd(id)
-  return function() vscode.call(id) end
-end
-local function nmap(lhs, id, desc)
-  vim.keymap.set("n", lhs, cmd(id), vim.tbl_extend("force", opts, { desc = desc }))
+local function map(mode, lhs, id, desc)
+  vim.keymap.set(mode, lhs, function() vscode.call(id) end,
+    { noremap = true, silent = true, desc = desc })
 end
 
--- Buffers / editors
-nmap("<leader>w",  "workbench.action.closeActiveEditor", "Close current editor")
-nmap("<leader>W",  "workbench.action.closeAllEditors",   "Close all editors")
-nmap("]b",         "workbench.action.nextEditor",        "Next editor tab")
-nmap("[b",         "workbench.action.previousEditor",    "Prev editor tab")
+-- Files / buffers / windows (mirror AstroNvim defaults)
+map("n", "<Leader>w", "workbench.action.files.save",             "Save")             -- :w
+map("n", "<Leader>n", "workbench.action.files.newUntitledFile",  "New File")         -- :enew
+map("n", "<Leader>c", "workbench.action.closeActiveEditor",      "Close buffer")     -- close buffer
+map("n", "<Leader>C", "workbench.action.revertAndCloseActiveEditor", "Force close buffer")
+map("n", "<Leader>q", "workbench.action.closeActiveEditor",      "Quit Window")      -- :confirm q
+map("n", "]b",        "workbench.action.nextEditor",             "Next buffer")      -- ]b
+map("n", "[b",        "workbench.action.previousEditor",         "Previous buffer")  -- [b
 
--- Finding
-nmap("<leader>f",  "workbench.action.quickOpen",         "Find files")
-nmap("<leader>ff", "workbench.action.quickOpen",         "Find files")
-nmap("<leader>fg", "workbench.action.findInFiles",       "Search in files (grep)")
-nmap("<leader>fb", "workbench.action.showAllEditors",    "Find open buffers")
-nmap("<leader>fc", "workbench.action.showCommands",      "Find commands")
+-- Comment (AstroNvim: <Leader>/ = toggle comment, n + visual)
+map("n", "<Leader>/", "editor.action.commentLine",  "Toggle comment line")
+map("x", "<Leader>/", "editor.action.commentLine",  "Toggle comment")
 
--- Sidebar / panels
-nmap("<leader>e",  "workbench.action.toggleSidebarVisibility", "Toggle sidebar")
-nmap("<leader>t",  "workbench.action.terminal.toggleTerminal", "Toggle terminal")
-nmap("<leader>gs", "workbench.view.scm",                       "Open git / SCM")
+-- Explorer (AstroNvim: <Leader>e = Toggle Explorer)
+map("n", "<Leader>e", "workbench.view.explorer",    "Toggle Explorer")
 
--- LSP (vscode-neovim wires gd/gr/K natively; these add extras)
-nmap("<leader>ca", "editor.action.quickFix",           "Code actions")
-nmap("<leader>rn", "editor.action.rename",             "Rename symbol")
-nmap("<leader>lr", "editor.action.goToReferences",     "List references")
+-- Find (AstroNvim: ff files, fw words, fb buffers, fo old files)
+map("n", "<Leader>ff", "workbench.action.quickOpen",     "Find files")
+map("n", "<Leader>fw", "workbench.action.findInFiles",   "Find words")
+map("n", "<Leader>fb", "workbench.action.showAllEditors","Find buffers")
+map("n", "<Leader>fo", "workbench.action.openRecent",    "Find old files")
+
+-- Git (AstroNvim: <Leader>gg = Lazygit; VSCode → SCM view)
+map("n", "<Leader>gg", "workbench.view.scm",             "Git")
+
+-- LSP (gd / gr / K are wired natively by vscode-neovim; these mirror <Leader>l*)
+map("n", "<Leader>la", "editor.action.quickFix",         "Code action")
+map("n", "<Leader>lr", "editor.action.rename",           "Rename")
+map("n", "<Leader>lR", "editor.action.goToReferences",   "References")
+map("n", "<Leader>lf", "editor.action.formatDocument",   "Format buffer")
