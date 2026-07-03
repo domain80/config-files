@@ -20,12 +20,10 @@ package.path = config .. "/lua/?.lua;" .. config .. "/lua/?/init.lua;" .. packag
 -- ── Shared editing layer (single source of truth) ────────────────────────────
 require("shared.editing").apply()
 
--- ── Insert-mode escape ───────────────────────────────────────────────────────
--- Replicates better-escape.nvim (jj / jk → <Esc>), which is a plugin in the full
--- config and therefore not loaded here. VSCode-only; the real nvim uses the plugin.
-local esc_opts = { noremap = true, silent = true }
-vim.keymap.set("i", "jk", "<Esc>", esc_opts)
-vim.keymap.set("i", "jj", "<Esc>", esc_opts)
+-- ── Insert-mode escape (jj / jk) ─────────────────────────────────────────────
+-- NOT here on purpose: vscode-neovim lets VSCode own insert-mode typing, so nvim
+-- `inoremap jk <Esc>` never fires. The equivalent of your better-escape.nvim lives
+-- in VSCode's keybindings.json via compositeEscape1/compositeEscape2. See that file.
 
 -- ── <leader> bindings ─────────────────────────────────────────────────────────
 -- Inherently VSCode-side (they call VSCode commands with no nvim equivalent), so
