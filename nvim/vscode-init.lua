@@ -1,48 +1,54 @@
--- Minimal Neovim init for vscode-neovim extension.
--- Motions: mirrors lua/plugins/mappings.lua — keep in sync when adding keymaps there.
--- Leader actions: call VSCode commands via require('vscode').call('command.id').
+-- ═══════════════════════════════════════════════════════════════════════════
+-- Neovim init for the vscode-neovim extension (asvetliakov.vscode-neovim).
+--
+-- This is the REAL nvim engine embedded in VSCode. We deliberately do NOT load
+-- AstroNvim here — VSCode owns the UI (statusline, file tree, completion,
+-- treesitter highlighting). We only load the shared editing layer + wire
+-- <leader> keys to native VSCode commands.
+--
+-- Motions/options come from lua/shared/editing.lua — the SAME source the full
+-- Neovim config uses — so the two can never drift.
+-- ═══════════════════════════════════════════════════════════════════════════
 
 vim.g.mapleader = " "
 vim.g.maplocalleader = ","
 
-local map = vim.keymap.set
-local opts = { noremap = true, silent = true }
-local vscode = require("vscode")
+-- Make our own lua/ modules requireable regardless of how nvim was launched.
+local config = vim.fn.stdpath("config")
+package.path = config .. "/lua/?.lua;" .. config .. "/lua/?/init.lua;" .. package.path
 
+-- ── Shared editing layer (single source of truth) ────────────────────────────
+require("shared.editing").apply()
+
+-- ── VSCode-command bindings (these are inherently VSCode-side, not from nvim) ──
+local vscode = require("vscode")
+local opts = { noremap = true, silent = true }
 local function cmd(id)
   return function() vscode.call(id) end
 end
+local function nmap(lhs, id, desc)
+  vim.keymap.set("n", lhs, cmd(id), vim.tbl_extend("force", opts, { desc = desc }))
+end
 
--- ── Motions ──────────────────────────────────────────────────────────────────
+-- Buffers / editors
+nmap("<leader>w",  "workbench.action.closeActiveEditor", "Close current editor")
+nmap("<leader>W",  "workbench.action.closeAllEditors",   "Close all editors")
+nmap("]b",         "workbench.action.nextEditor",        "Next editor tab")
+nmap("[b",         "workbench.action.previousEditor",    "Prev editor tab")
 
-map({ "n", "v", "o" }, "H", "^", vim.tbl_extend("force", opts, { desc = "Go to first non-blank character" }))
-map({ "n", "v", "o" }, "^", "H", vim.tbl_extend("force", opts, { desc = "Go to top of screen" }))
-map({ "n", "v", "o" }, "L", "$", vim.tbl_extend("force", opts, { desc = "Go to end of line" }))
-map({ "n", "v", "o" }, "$", "L", vim.tbl_extend("force", opts, { desc = "Go to bottom of screen" }))
+-- Finding
+nmap("<leader>f",  "workbench.action.quickOpen",         "Find files")
+nmap("<leader>ff", "workbench.action.quickOpen",         "Find files")
+nmap("<leader>fg", "workbench.action.findInFiles",       "Search in files (grep)")
+nmap("<leader>fb", "workbench.action.showAllEditors",    "Find open buffers")
+nmap("<leader>fc", "workbench.action.showCommands",      "Find commands")
 
--- ── Buffers / editors ─────────────────────────────────────────────────────────
+-- Sidebar / panels
+nmap("<leader>e",  "workbench.action.toggleSidebarVisibility", "Toggle sidebar")
+nmap("<leader>t",  "workbench.action.terminal.toggleTerminal", "Toggle terminal")
+nmap("<leader>gs", "workbench.view.scm",                       "Open git / SCM")
 
-map("n", "<leader>w",  cmd("workbench.action.closeActiveEditor"),      vim.tbl_extend("force", opts, { desc = "Close current editor" }))
-map("n", "<leader>W",  cmd("workbench.action.closeAllEditors"),        vim.tbl_extend("force", opts, { desc = "Close all editors" }))
-map("n", "]b",         cmd("workbench.action.nextEditor"),             vim.tbl_extend("force", opts, { desc = "Next editor tab" }))
-map("n", "[b",         cmd("workbench.action.previousEditor"),         vim.tbl_extend("force", opts, { desc = "Prev editor tab" }))
-
--- ── Finding ───────────────────────────────────────────────────────────────────
-
-map("n", "<leader>f",  cmd("workbench.action.quickOpen"),              vim.tbl_extend("force", opts, { desc = "Find files" }))
-map("n", "<leader>ff", cmd("workbench.action.quickOpen"),              vim.tbl_extend("force", opts, { desc = "Find files" }))
-map("n", "<leader>fg", cmd("workbench.action.findInFiles"),            vim.tbl_extend("force", opts, { desc = "Search in files (grep)" }))
-map("n", "<leader>fb", cmd("workbench.action.showAllEditors"),         vim.tbl_extend("force", opts, { desc = "Find open buffers" }))
-map("n", "<leader>fc", cmd("workbench.action.showCommands"),           vim.tbl_extend("force", opts, { desc = "Find commands" }))
-
--- ── Sidebar / panels ─────────────────────────────────────────────────────────
-
-map("n", "<leader>e",  cmd("workbench.action.toggleSidebarVisibility"), vim.tbl_extend("force", opts, { desc = "Toggle sidebar" }))
-map("n", "<leader>t",  cmd("workbench.action.terminal.toggleTerminal"), vim.tbl_extend("force", opts, { desc = "Toggle terminal" }))
-map("n", "<leader>gs", cmd("workbench.view.scm"),                      vim.tbl_extend("force", opts, { desc = "Open git / SCM" }))
-
--- ── LSP (vscode-neovim wires gd/gr/K natively; these add extras) ─────────────
-
-map("n", "<leader>ca", cmd("editor.action.quickFix"),                  vim.tbl_extend("force", opts, { desc = "Code actions" }))
-map("n", "<leader>rn", cmd("editor.action.rename"),                    vim.tbl_extend("force", opts, { desc = "Rename symbol" }))
-map("n", "<leader>lr", cmd("editor.action.goToReferences"),            vim.tbl_extend("force", opts, { desc = "List references" }))
+-- LSP (vscode-neovim wires gd/gr/K natively; these add extras)
+nmap("<leader>ca", "editor.action.quickFix",           "Code actions")
+nmap("<leader>rn", "editor.action.rename",             "Rename symbol")
+nmap("<leader>lr", "editor.action.goToReferences",     "List references")
