@@ -1,0 +1,3 @@
+// Insert-mode jk/jj escape is configured via `vscode-neovim.compositeKeys`
+// in settings.json (the current, non-deprecated mechanism), not here.
+[]
