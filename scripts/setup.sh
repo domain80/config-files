@@ -34,6 +34,8 @@ echo "This will configure this machine from repo: $REPO"
 echo
 echo "  iTerm2:"
 echo "    • load settings from custom folder: $ITERM_FOLDER"
+echo "  VS Code:"
+echo "    • symlink ${VSCODE_FILES[*]} into $VSCODE_USER"
 echo "  Auto-commit:"
 echo "    • render launchd agent (REPO=$REPO  HOME=$HOME)"
 echo "    • write + load: $RENDERED"
