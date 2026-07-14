@@ -20,9 +20,15 @@ UID_NUM="$(id -u)"
 ITERM_DOMAIN="com.googlecode.iterm2"
 ITERM_FOLDER="$REPO/iterm2"
 
+# --- VS Code bits ---
+VSCODE_REPO="$REPO/vscode"
+VSCODE_USER="$HOME/Library/Application Support/Code/User"
+VSCODE_FILES=(settings.json keybindings.json)
+
 # --- preflight ---------------------------------------------------------------
 [[ -f "$TEMPLATE" ]]    || { echo "error: agent template not found at $TEMPLATE" >&2; exit 1; }
 [[ -d "$ITERM_FOLDER" ]] || { echo "error: iTerm2 folder not found at $ITERM_FOLDER" >&2; exit 1; }
+[[ -d "$VSCODE_REPO" ]]  || { echo "error: vscode folder not found at $VSCODE_REPO" >&2; exit 1; }
 
 echo "This will configure this machine from repo: $REPO"
 echo
