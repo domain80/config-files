@@ -57,7 +57,27 @@ defaults write "$ITERM_DOMAIN" PrefsCustomFolder -string "$ITERM_FOLDER"
 defaults write "$ITERM_DOMAIN" LoadPrefsFromCustomFolder -bool true
 echo "✓ iTerm2 pointed at $ITERM_FOLDER"
 
-# --- 2. install the auto-commit agent ----------------------------------------
+# --- 2. symlink VS Code settings to the tracked copies -----------------------
+# Idempotent + non-destructive: correct symlink -> skip; real file -> back up
+# to .bak first; then (re)create the link. Dir may not exist if VS Code has
+# never launched on this machine.
+mkdir -p "$VSCODE_USER"
+for f in "${VSCODE_FILES[@]}"; do
+  target="$VSCODE_REPO/$f"
+  link="$VSCODE_USER/$f"
+  if [[ "$(readlink "$link" 2>/dev/null)" == "$target" ]]; then
+    echo "✓ VS Code $f already linked"
+    continue
+  fi
+  if [[ -e "$link" || -L "$link" ]]; then
+    mv "$link" "$link.bak"
+    echo "  backed up existing $f -> $f.bak"
+  fi
+  ln -s "$target" "$link"
+  echo "✓ VS Code $f linked"
+done
+
+# --- 3. install the auto-commit agent ----------------------------------------
 # The watcher (config-watch.sh) needs fswatch for recursive FSEvents watching.
 if ! command -v fswatch >/dev/null 2>&1; then
   if command -v brew >/dev/null 2>&1; then
