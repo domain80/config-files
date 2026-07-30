@@ -6,6 +6,15 @@
 //
 // Keep in sync with the nvim config when motions/leader maps change there.
 [
+  // ── Insert mode ──────────────────────────────────────────────────────────
+  // Quick "jk" to escape back to normal mode.
+  {
+    "context": "vim_mode == insert",
+    "bindings": {
+      "j k": "vim::NormalBefore"
+    }
+  },
+
   // ── Motions (n / v / o via VimControl) ──────────────────────────────────
   // Swap screen-position motions with line-position motions:
   //   H -> first non-blank char        ^ -> top of screen
