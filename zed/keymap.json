@@ -34,7 +34,8 @@
     "context": "vim_mode == normal",
     "bindings": {
       // Buffers / editors
-      "space w": "pane::CloseActiveItem",        // close current editor
+      "space w": "workspace::Save",              // save current file
+      "space k": "pane::CloseActiveItem",        // close current editor
       "space shift-w": "pane::CloseAllItems",    // close all editors (pane)
       "] b": "pane::ActivateNextItem",           // next editor tab
       "[ b": "pane::ActivatePreviousItem",       // prev editor tab
