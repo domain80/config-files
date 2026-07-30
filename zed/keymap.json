@@ -63,8 +63,8 @@
   {
     "context": "Workspace",
     "bindings": {
-      "alt-h": "workspace::ActivatePaneLeft",    // focus pane to the left
-      "alt-l": "workspace::ActivatePaneRight"    // focus pane to the right
+      "alt-p": "workspace::ActivatePaneLeft",     // focus previous pane (left)
+      "alt-m": "workspace::ActivatePaneRight"     // focus next pane (right)
     }
   }
 ]
