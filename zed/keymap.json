@@ -57,5 +57,14 @@
       "space r n": "editor::Rename",             // rename symbol
       "space l r": "editor::FindAllReferences"   // list references
     }
+  },
+
+  // ── Pane navigation (any mode) ───────────────────────────────────────────
+  {
+    "context": "Workspace",
+    "bindings": {
+      "alt-h": "workspace::ActivatePaneLeft",    // focus pane to the left
+      "alt-l": "workspace::ActivatePaneRight"    // focus pane to the right
+    }
   }
 ]
