@@ -59,12 +59,12 @@
     }
   },
 
-  // ── Pane navigation (any mode) ───────────────────────────────────────────
+  // ── Tab navigation (any mode) ────────────────────────────────────────────
   {
     "context": "Workspace",
     "bindings": {
-      "alt-p": "workspace::ActivatePaneLeft",     // focus previous pane (left)
-      "alt-m": "workspace::ActivatePaneRight"     // focus next pane (right)
+      "alt-p": "pane::ActivatePreviousItem",     // previous tab
+      "alt-n": "pane::ActivateNextItem"          // next tab
     }
   }
 ]
