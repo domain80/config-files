@@ -61,7 +61,6 @@
 
   // ── Tab navigation (any mode) ────────────────────────────────────────────
   {
-    "context": "Workspace",
     "bindings": {
       "alt-p": "pane::ActivatePreviousItem",     // previous tab
       "alt-n": "pane::ActivateNextItem"          // next tab
