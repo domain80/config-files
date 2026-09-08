@@ -28,6 +28,7 @@ abbr --set-cursor=@\$ -a tn cd ~/dev/terydin@\$
 abbr --set-cursor=@\$ -a pb cd ~/Documents/obsidian/Playbook2026/@\$
 abbr --set-cursor=@\$ -a me cd ~/dev/me@\$
 abbr --set-cursor=@\$ -a bi cd ~/dev/bitovi@\$
+abbr --set-cursor=@\$ -a yu cd ~/dev/bitovi@\$
 # abbr end
 
 # bun
