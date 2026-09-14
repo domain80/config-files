@@ -1,0 +1,4 @@
+{
+  "AstroNvim": { "branch": "main", "commit": "aa0545fc8357009fc8a67e6cd93e7f8544e3aba9" },
+  "lazy.nvim": { "branch": "main", "commit": "85c7ff3711b730b4030d03144f6db6375044ae82" }
+}
