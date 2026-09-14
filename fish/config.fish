@@ -34,3 +34,4 @@ abbr --set-cursor=@\$ -a yu cd ~/dev/bitovi@\$
 # bun
 set --export BUN_INSTALL "$HOME/.bun"
 set --export PATH $BUN_INSTALL/bin $PATH
+direnv hook fish | source
