@@ -23,6 +23,7 @@ M.keymaps = {
   { { "n", "v", "o" }, "^", "H", "Go to top of screen" },
   { { "n", "v", "o" }, "L", "$", "Go to end of line" },
   { { "n", "v", "o" }, "$", "L", "Go to bottom of screen" },
+  { { "n", "v", "o" }, "U", "ctrl", "r", "Redo" },
 }
 
 -- Engine-level options that both editors honour. Add to this as you adopt more.
