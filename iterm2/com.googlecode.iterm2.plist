@@ -1937,6 +1937,11 @@
 	<false/>
 	<key>SoundForEsc</key>
 	<false/>
+	<key>ToolbeltTools</key>
+	<array>
+		<string>Profiles</string>
+		<string>Session Status</string>
+	</array>
 	<key>VisualIndicatorForEsc</key>
 	<false/>
 	<key>WindowPlacement</key>
