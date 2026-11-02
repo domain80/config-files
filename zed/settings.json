@@ -7,7 +7,7 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
-  "base_keymap": "VSCode",
+  "base_keymap": "Zed",
   "soft_wrap": "editor_width",
   "buffer_line_height": "comfortable",
   "buffer_font_family": "JetBrainsMono Nerd Font",
@@ -61,6 +61,6 @@
   "theme": {
     "mode": "system",
     "light": "One Light",
-    "dark": "JetBrains Dark",
+    "dark": "One Dark",
   },
 }
